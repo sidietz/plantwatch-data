@@ -1,378 +1,506 @@
-BNA1401a,41517,Grevenbroich,Energiestraße 101,Nordrhein-Westfalen,Neurath F
-BNA1401b,41517,Grevenbroich,Energiestraße 101,Nordrhein-Westfalen,Neurath G
-BNA0115,4007,Böhlen,Werkstraße,Sachsen,R
-BNA0116,4564,Böhlen,Werkstraße,Sachsen,LIP S
-BNA0793,32469,Petershagen,,Nordrhein-Westfalen,4
-BNA0124,2945,Boxberg,Kraftwerksstraße,Sachsen,Q
-BNA0646b,68199,Mannheim,Marguerrestraße 1,Baden-Württemberg,Block 9
-BNA0518b,76189,Karlsruhe,Fettweisstraße 42,Baden-Württemberg,RDK 8
-BNA1558,21079,Hamburg,,Hamburg,B
-BNA1673,21079,Hamburg,Moorburger Schanze 2,Hamburg,Moorburg A
-BNA0434,74076,Heilbronn,Lichtenbergerstraße 23,Baden-Württemberg,HLB 7
-BNA0413b,59071,Hamm-Uentrop,,Nordrhein-Westfalen,D
-BNA0413c,59071,Hamm-Uentrop,,Nordrhein-Westfalen,E
-BNA1061,26386,Wilhelmshaven,,Niedersachsen,1
+BNA1401a,41517,Grevenbroich,Energiestraße 101,Nordrhein-Westfalen,Neurath F,1060.0
+BNA1401b,41517,Grevenbroich,Energiestraße 101,Nordrhein-Westfalen,Neurath G,1060.0
+BNA0115,4007,Böhlen,Werkstraße,Sachsen,R,875.0
+BNA0116,4564,Böhlen,Werkstraße,Sachsen,LIP S,875.0
+BNA0793,32469,Petershagen,,Nordrhein-Westfalen,4,875.0
+BNA0124,2945,Boxberg,Kraftwerksstraße,Sachsen,Q,857.0
+BNA0646b,68199,Mannheim,Marguerrestraße 1,Baden-Württemberg,Block 9,843.0
+BNA0518b,76189,Karlsruhe,Fettweisstraße 42,Baden-Württemberg,RDK 8,842.0
+BNA1558,21079,Hamburg,,Hamburg,B,800.0
+BNA1673,21079,Hamburg,Moorburger Schanze 2,Hamburg,Moorburg A,800.0
+BNA0493,49479,Ibbenbüren,,Nordrhein-Westfalen,B,794.0
+BNA0434,74076,Heilbronn,Lichtenbergerstraße 23,Baden-Württemberg,HLB 7,778.0
+BNA0413b,59071,Hamm-Uentrop,,Nordrhein-Westfalen,D,765.0
+BNA0413c,59071,Hamm-Uentrop,,Nordrhein-Westfalen,E,764.0
+BNA1061,26386,Wilhelmshaven,,Niedersachsen,1,757.0
 BNA0914,3130,Spremberg,"An der alten
-Ziegelei 1",Brandenburg,A
-BNA0915,3131,Spremberg,An der alten Ziegelei 1,Brandenburg,B
-BNA1508,44536,Lünen,Frydagstr. 40,Nordrhein-Westfalen,
-BNA1674,26386,Wilhelmshaven,Niedersachsendamm,Niedersachsen,Kraftwerk Wilhelmshaven
-BNA0093,66450,Bexbach,Grubenstraße,Saarland,BEX
-BNA0216b,47180,Duisburg,Dr. Wilhelm-Roelen-Str.129,Nordrhein-Westfalen,Walsum 10
-BNA0067,59192,Bergkamen,,Nordrhein-Westfalen,A
-BNA0991,46562,Voerde,Frankfurter Str 430,Nordrhein-Westfalen,Block A
-BNA0992,46563,Voerde,Frankfurter Str 430,Nordrhein-Westfalen,Block B
-BNA0335,45896,Gelsenkirchen,,Nordrhein-Westfalen,F
-BNA0820,66287,Quierschied,Holzer Straße,Saarland,Weiher III
-BNA0707,50129,Bergheim,,Nordrhein-Westfalen,H
-BNA1404,2943,Boxberg,Kraftwerkstraße ,Sachsen,R
-BNA0709,50129,Bergheim,,Nordrhein-Westfalen,K
-BNA0708,50129,Bergheim,,Nordrhein-Westfalen,G
-BNA1046a,59368,Werne,,Nordrhein-Westfalen,K2
-BNA0699,41517,Grevenbroich-Neurath,,Nordrhein-Westfalen,D
-BNA0700,41517,Grevenbroich-Neurath,,Nordrhein-Westfalen,E
-BNA0849,18147,Rostock,Am Kühlturm 1,Mecklenburg-Vorpommern,Rostock
-BNA0377,63538,Großkrotzenburg,,Hessen,5
-BNA0518a,76189,Karlsruhe,Fettweisstraße 42,Baden-Württemberg,RDK 7
-BNA0122,2943,Boxberg,Kraftwerksstraße,Sachsen,N
-BNA0123,2944,Boxberg,Kraftwerksstraße,Sachsen,P
-BNA0785,3185,Peitz,Kraftwerksstraße,Brandenburg,A
-BNA0786,3185,Peitz,Kraftwerksstraße,Brandenburg,B
-BNA0787,3185,Peitz,Kraftwerksstraße,Brandenburg,C
-BNA0788,3185,Peitz,Kraftwerksstraße,Brandenburg,D
-BNA0789,3185,Peitz,Kraftwerksstraße,Brandenburg,E
-BNA0790,3185,Peitz,Kraftwerksstraße,Brandenburg,F
-BNA0878,6258,Schkopau,,Sachsen-Anhalt,A
-BNA0879,6258,Schkopau,,Sachsen-Anhalt,B
-BNA0450,44655,Herne,Hertener Str. 16,Nordrhein-Westfalen,Herne 4
-BNA0646a,68199,Mannheim,Marguerrestraße 1,Baden-Württemberg,Block 8
-BNA0020,73776,Altbach,Industriestraße 11,Baden-Württemberg,ALT HKW 1
-BNA0645,68199,Mannheim,Marguerrestraße 1,Baden-Württemberg,Block 7
-BNA0216a,47180,Duisburg,Dr. Wilhelm-Roelen-Str.129,Nordrhein-Westfalen,Walsum 9
-BNA0331,45896,Gelsenkirchen,,Nordrhein-Westfalen,C
-BNA0332,45896,Gelsenkirchen,,Nordrhein-Westfalen,B
-BNA0333,45896,Gelsenkirchen,,Nordrhein-Westfalen,D
-BNA0334,45896,Gelsenkirchen,,Nordrhein-Westfalen,E
-BNA0019,73776,Altbach,Industriestraße 11,Baden-Württemberg,ALT HKW 2 (DT Solobetrieb)
-BNA0619,44537,Lünen,Moltkestr. 215,Nordrhein-Westfalen,Lünen 7
-BNA0526,24149,Kiel,,Schleswig-Holstein,
-BNA0990,46562,Voerde,Frankfurter Str. 430,Nordrhein-Westfalen,West 1
-BNA0989,46563,Voerde,Frankfurter Str. 430,Nordrhein-Westfalen,West 2
-BNA0146,28237,Bremen,Otavistr. 7-9,Bremen,Block 6
-BNA0706,50129,Bergheim,,Nordrhein-Westfalen,F
-BNA0705,50129,Bergheim,,Nordrhein-Westfalen,D
-BNA0712,50129,Bergheim,,Nordrhein-Westfalen,C
-BNA0713,50129,Bergheim,,Nordrhein-Westfalen,E
-BNA0696,41517,Grevenbroich-Neurath,,Nordrhein-Westfalen,A
-BNA0697,41517,Grevenbroich-Neurath,,Nordrhein-Westfalen,B
-BNA0376,63538,Großkrotzenburg,,Hessen,3
-BNA0698,41517,Grevenbroich-Neurath,,Nordrhein-Westfalen,C
-BNA0252,66806,Ensdorf,Kurt Kessler Str. 1,Saarland,Block 3
-BNA0086,13599,Berlin,Großer Spreering 5,Berlin,Reuter West D
-BNA0087,13599,Berlin,Großer Spreering 5,Berlin,Reuter West E
-BNA0449,44654,Herne,Hertener Str. 16,Nordrhein-Westfalen,Herne 3
-BNA0644,68199,Mannheim,Marguerrestraße 1,Baden-Württemberg,Block 6
-BNA0375,63538,Großkrotzenburg,,Hessen,1
-BNA0999,66333,Völklingen-Fenne,Saarbrücker Straße 135-137,Saarland,HKV
-BNA0642,68199,Mannheim,Marguerrestraße 1,Baden-Württemberg,Block 3
-BNA0643,68199,Mannheim,Marguerrestraße 1,Baden-Württemberg,Block 4
-BNA0402,22113,Hamburg,Andreas-Meyer-Straße 8,Hamburg,Tiefstack
-BNA1035,58791,Werdohl,,Nordrhein-Westfalen,E3
-BNA0998,66333,Völklingen-Fenne,Saarbrücker Straße 135-137,Saarland,MKV
-BNA0414,59071,Hamm-Uentrop,,Nordrhein-Westfalen,A
-BNA0415,59071,Hamm-Uentrop,,Nordrhein-Westfalen,B
-BNA0618,44536,Lünen,Moltkestr. 215,Nordrhein-Westfalen,Lünen 6
-BNA0310,41517,Grevenbroich-Frimmersdorf,,Nordrhein-Westfalen,M
-BNA0404,22880,Wedel,Tinsdaler Weg 146,Schleswig-Holstein,Wedel 1
-BNA0420,30419,Hannover,,Niedersachsen,Block1
-BNA0421,30419,Hannover,,Niedersachsen,Block2
-BNA0308,41517,Frimmersdorf,,Nordrhein-Westfalen,K
-BNA1022,52249,Eschweiler-Weisweiler,,Nordrhein-Westfalen,D
-BNA0309,41517,Grevenbroich-Frimmersdorf,,Nordrhein-Westfalen,N
-BNA0312,41517,Grevenbroich-Frimmersdorf,,Nordrhein-Westfalen,O
-BNA0447,44653,Herne,Hertener Str. 16,Nordrhein-Westfalen,Herne 2
-BNA0306,41517,Grevenbroich-Frimmersdorf,,Nordrhein-Westfalen,F
-BNA0311,41517,Grevenbroich-Frimmersdorf,,Nordrhein-Westfalen,L
-BNA0303,41517,Frimmersdorf,,Nordrhein-Westfalen,D
-BNA0305,41517,Grevenbroich-Frimmersdorf,,Nordrhein-Westfalen,E
-BNA0302,41517,Frimmersdorf,,Nordrhein-Westfalen,C
-BNA0215,47179,Duisburg,Dr. Wilhelm-Roelen-Str.129,Nordrhein-Westfalen,Walsum 7
-BNA0307,41517,Frimmersdorf,,Nordrhein-Westfalen,I
-BNA0145,28237,Bremen,Otavistr. 7-9,Bremen,Block 5
-BNA0710,50129,Bergheim,,Nordrhein-Westfalen,B
-BNA0711,50129,Bergheim,,Nordrhein-Westfalen,A
-BNA0432,74076,Heilbronn,Lichtenbergerstraße 23,Baden-Württemberg,HLB 5
-BNA0433,74076,Heilbronn,Lichtenbergerstraße 23,Baden-Württemberg,HLB 6
-BNA0304,41517,Frimmersdorf,,Nordrhein-Westfalen,G
-BNA0403,22880,Wedel,Tinsdaler Weg 146,Schleswig-Holstein,Wedel 2
-BNA1021,52249,Eschweiler-Weisweiler,,Nordrhein-Westfalen,C
-BNA0144,28207,Bremen,Hastedter Osterdeich 255,Bremen,Block 15
-BNA0189,45711,Datteln,,Nordrhein-Westfalen,3
-BNA0253,66806,Ensdorf,Kurt-Kessler-Str.,Saarland,Block 1
-BNA0187,45711,Datteln,,Nordrhein-Westfalen,1
-BNA0188,45711,Datteln,,Nordrhein-Westfalen,2
-BNA1084,42117,Wuppertal,,Nordrhein-Westfalen,Block 3
-BNA0543,50769,Köln,,Nordrhein-Westfalen,Block 6
-BNA0489,50354,Hürth,,Nordrhein-Westfalen,E
-BNA0490b,50354,Hürth,,Nordrhein-Westfalen,F
-BNA0490a,50354,Hürth,,Nordrhein-Westfalen,F
-BNA0273,24939,Flensburg,Batteriestr. 48,Schleswig-Holstein,Block 8
-BNA0274,24939,Flensburg,Batteriestr. 48,Schleswig-Holstein,Block 7
-BNA0714,50129,Bergheim,,Nordrhein-Westfalen,Fortuna Nord
-BNA0510b,67655,Kaiserslautern,,Rheinland-Pfalz,20
-BNA0005,16356,Ahrensfelde,Lindenberger Weg,Brandenburg,GT A
-BNA0006,16356,Ahrensfelde,Lindenberger Weg,Brandenburg,GT B
-BNA0007,16356,Ahrensfelde,Lindenberger Weg,Brandenburg,GT C
-BNA0008,16356,Ahrensfelde,Lindenberger Weg,Brandenburg,GT D
-BNA0012b,31061,Alfeld,Mühlenmarsch 1,Niedersachsen,Gaskraftwerk
-BNA0015,73776,Altbach,Industriestraße 11,Baden-Württemberg,ALT GT E (solo)
-BNA1331,59821,Arnsberg,Hellefelderstr. 51,Nordrhein-Westfalen,HD - Kraftwerk
-BNA1103,86153,Augsburg,Georg-Heindl-Strasse 4,Bayern,Dampfturbine 3
-BNA0033,86165,Augsburg ,Beim Grenzgraben 10,Bayern,GT
-BNA1507,55543,Bad Kreuznach,Michelinstr. 1,Rheinland-Pfalz,
-BNA0051,39249,Barby,Monplaisirstr. 22,Sachsen-Anhalt,-
-BNA0059b,34225,Baunatal,,Hessen,
-BNA1293a,50127,Bergheim,Kölner Straße 110,Nordrhein-Westfalen,K1/TG1
-BNA1293b,50127,Bergheim,Kölner Straße 110,Nordrhein-Westfalen,K2/TG2
-BNA1293c,50127,Bergheim,Kölner Straße 110,Nordrhein-Westfalen,K3+4/TG4
-BNA0073,10179,Berlin,Köpenicker Straße 60,Berlin,GuD Mitte
-BNA0075,12207,Berlin,Ostpreußendamm 61,Berlin,Lichterfelde 1
-BNA0076,12207,Berlin,Ostpreußendamm 61,Berlin,Lichterfelde 3
-BNA0088a,6406,Bernburg,,Sachsen-Anhalt,
-BNA0100,33697,Bielefeld,,Nordrhein-Westfalen,GuD
-BNA0105,6749,Bitterfeld,,Sachsen-Anhalt,
-BNA0110,44799,Bochum,,Nordrhein-Westfalen,KBO
-BNA0111,44805,Bochum,,Nordrhein-Westfalen,
+Ziegelei 1",Brandenburg,A,750.0
+BNA0915,3131,Spremberg,An der alten Ziegelei 1,Brandenburg,B,750.0
+BNA1508,44536,Lünen,Frydagstr. 40,Nordrhein-Westfalen,,746.0
+BNA1674,26386,Wilhelmshaven,Niedersachsendamm,Niedersachsen,Kraftwerk Wilhelmshaven,731.0
+BNA0093,66450,Bexbach,Grubenstraße,Saarland,BEX,726.0
+BNA0216b,47180,Duisburg,Dr. Wilhelm-Roelen-Str.129,Nordrhein-Westfalen,Walsum 10,725.0
+BNA0067,59192,Bergkamen,,Nordrhein-Westfalen,A,717.0
+BNA0991,46562,Voerde,Frankfurter Str 430,Nordrhein-Westfalen,Block A,695.0
+BNA0992,46563,Voerde,Frankfurter Str 430,Nordrhein-Westfalen,Block B,695.0
+BNA0335,45896,Gelsenkirchen,,Nordrhein-Westfalen,F,676.0
+BNA0820,66287,Quierschied,Holzer Straße,Saarland,Weiher III,655.6
+BNA0707,50129,Bergheim,,Nordrhein-Westfalen,H,648.0
+BNA1404,2943,Boxberg,Kraftwerkstraße ,Sachsen,R,640.0
+BNA1027,52249,Eschweiler-Weisweiler,,Nordrhein-Westfalen,G,636.0
+BNA1028,52249,Eschweiler-Weisweiler,,Nordrhein-Westfalen,H,636.0
+BNA0709,50129,Bergheim,,Nordrhein-Westfalen,K,632.0
+BNA0708,50129,Bergheim,,Nordrhein-Westfalen,G,628.0
+BNA1046a,59368,Werne,,Nordrhein-Westfalen,K2,620.0
+BNA0699,41517,Grevenbroich-Neurath,,Nordrhein-Westfalen,D,607.0
+BNA0700,41517,Grevenbroich-Neurath,,Nordrhein-Westfalen,E,604.0
+BNA0849,18147,Rostock,Am Kühlturm 1,Mecklenburg-Vorpommern,Rostock,514.0
+BNA0377,63538,Großkrotzenburg,,Hessen,5,510.0
+BNA0518a,76189,Karlsruhe,Fettweisstraße 42,Baden-Württemberg,RDK 7,505.0
+BNA1093,85406,Zolling,Leininger Str. 1,Bayern,Zolling Block 5,472.0
+BNA0122,2943,Boxberg,Kraftwerksstraße,Sachsen,N,465.0
+BNA0123,2944,Boxberg,Kraftwerksstraße,Sachsen,P,465.0
+BNA0785,3185,Peitz,Kraftwerksstraße,Brandenburg,A,465.0
+BNA0786,3185,Peitz,Kraftwerksstraße,Brandenburg,B,465.0
+BNA0787,3185,Peitz,Kraftwerksstraße,Brandenburg,C,465.0
+BNA0788,3185,Peitz,Kraftwerksstraße,Brandenburg,D,465.0
+BNA0789,3185,Peitz,Kraftwerksstraße,Brandenburg,E,465.0
+BNA0790,3185,Peitz,Kraftwerksstraße,Brandenburg,F,465.0
+BNA0878,6258,Schkopau,,Sachsen-Anhalt,A,450.0
+BNA0879,6258,Schkopau,,Sachsen-Anhalt,B,450.0
+BNA0450,44655,Herne,Hertener Str. 16,Nordrhein-Westfalen,Herne 4,449.0
+BNA0646a,68199,Mannheim,Marguerrestraße 1,Baden-Württemberg,Block 8,435.0
+BNA0020,73776,Altbach,Industriestraße 11,Baden-Württemberg,ALT HKW 1,433.0
+BNA0645,68199,Mannheim,Marguerrestraße 1,Baden-Württemberg,Block 7,425.0
+BNA0216a,47180,Duisburg,Dr. Wilhelm-Roelen-Str.129,Nordrhein-Westfalen,Walsum 9,370.0
+BNA0147,28777,Bremen,Wilhelmshavener Str. 6,Bremen,Farge,350.0
+BNA0331,45896,Gelsenkirchen,,Nordrhein-Westfalen,C,345.0
+BNA0332,45896,Gelsenkirchen,,Nordrhein-Westfalen,B,345.0
+BNA0333,45896,Gelsenkirchen,,Nordrhein-Westfalen,D,345.0
+BNA0334,45896,Gelsenkirchen,,Nordrhein-Westfalen,E,345.0
+BNA0019,73776,Altbach,Industriestraße 11,Baden-Württemberg,ALT HKW 2 (DT Solobetrieb),336.0
+BNA0969b,85774,Unterföhring,,Bayern,2,332.7
+BNA0619,44537,Lünen,Moltkestr. 215,Nordrhein-Westfalen,Lünen 7,324.0
+BNA0526,24149,Kiel,,Schleswig-Holstein,,323.0
+BNA0990,46562,Voerde,Frankfurter Str. 430,Nordrhein-Westfalen,West 1,322.0
+BNA1025,52249,Eschweiler-Weisweiler,,Nordrhein-Westfalen,E,321.0
+BNA1026,52249,Eschweiler-Weisweiler,,Nordrhein-Westfalen,F,321.0
+BNA0989,46563,Voerde,Frankfurter Str. 430,Nordrhein-Westfalen,West 2,318.0
+BNA1037,58791,Werdohl,,Nordrhein-Westfalen,E4,310.0
+BNA0146,28237,Bremen,Otavistr. 7-9,Bremen,Block 6,300.0
+BNA0706,50129,Bergheim,,Nordrhein-Westfalen,F,299.0
+BNA0705,50129,Bergheim,,Nordrhein-Westfalen,D,297.0
+BNA0712,50129,Bergheim,,Nordrhein-Westfalen,C,295.0
+BNA0713,50129,Bergheim,,Nordrhein-Westfalen,E,295.0
+BNA0696,41517,Grevenbroich-Neurath,,Nordrhein-Westfalen,A,294.0
+BNA0697,41517,Grevenbroich-Neurath,,Nordrhein-Westfalen,B,294.0
+BNA0376,63538,Großkrotzenburg,,Hessen,3,293.0
+BNA0698,41517,Grevenbroich-Neurath,,Nordrhein-Westfalen,C,292.0
+BNA0313,41517,Grevenbroich-Frimmersdorf,,Nordrhein-Westfalen,P,284.0
+BNA0413a,59071,Hamm-Uentrop,,Nordrhein-Westfalen,C,284.0
+BNA0252,66806,Ensdorf,Kurt Kessler Str. 1,Saarland,Block 3,283.0
+BNA0086,13599,Berlin,Großer Spreering 5,Berlin,Reuter West D,282.0
+BNA0087,13599,Berlin,Großer Spreering 5,Berlin,Reuter West E,282.0
+BNA0449,44654,Herne,Hertener Str. 16,Nordrhein-Westfalen,Herne 3,280.0
+BNA0314,41517,Grevenbroich-Frimmersdorf,,Nordrhein-Westfalen,Q,278.0
+BNA0644,68199,Mannheim,Marguerrestraße 1,Baden-Württemberg,Block 6,255.0
+BNA0375,63538,Großkrotzenburg,,Hessen,1,249.0
+BNA0999,66333,Völklingen-Fenne,Saarbrücker Straße 135-137,Saarland,HKV,211.0
+BNA0642,68199,Mannheim,Marguerrestraße 1,Baden-Württemberg,Block 3,202.5
+BNA0643,68199,Mannheim,Marguerrestraße 1,Baden-Württemberg,Block 4,202.5
+BNA0402,22113,Hamburg,Andreas-Meyer-Straße 8,Hamburg,Tiefstack,194.0
+BNA1035,58791,Werdohl,,Nordrhein-Westfalen,E3,186.0
+BNA0998,66333,Völklingen-Fenne,Saarbrücker Straße 135-137,Saarland,MKV,179.0
+BNA0081,10317,Berlin,Köpenicker Chaussee 42 - 45 ,Berlin,Klingenberg,164.0
+BNA0414,59071,Hamm-Uentrop,,Nordrhein-Westfalen,A,152.0
+BNA0415,59071,Hamm-Uentrop,,Nordrhein-Westfalen,B,152.0
+BNA0618,44536,Lünen,Moltkestr. 215,Nordrhein-Westfalen,Lünen 6,149.0
+BNA0310,41517,Grevenbroich-Frimmersdorf,,Nordrhein-Westfalen,M,138.0
+BNA0404,22880,Wedel,Tinsdaler Weg 146,Schleswig-Holstein,Wedel 1,137.0
+BNA0420,30419,Hannover,,Niedersachsen,Block1,136.0
+BNA0421,30419,Hannover,,Niedersachsen,Block2,136.0
+BNA0308,41517,Frimmersdorf,,Nordrhein-Westfalen,K,136.0
+BNA1022,52249,Eschweiler-Weisweiler,,Nordrhein-Westfalen,D,135.0
+BNA0309,41517,Grevenbroich-Frimmersdorf,,Nordrhein-Westfalen,N,135.0
+BNA0212,47053,Duisburg,Zirkelstraße,Nordrhein-Westfalen,HKW II/B,133.0
+BNA0312,41517,Grevenbroich-Frimmersdorf,,Nordrhein-Westfalen,O,133.0
+BNA0447,44653,Herne,Hertener Str. 16,Nordrhein-Westfalen,Herne 2,133.0
+BNA0306,41517,Grevenbroich-Frimmersdorf,,Nordrhein-Westfalen,F,132.0
+BNA0311,41517,Grevenbroich-Frimmersdorf,,Nordrhein-Westfalen,L,131.0
+BNA0303,41517,Frimmersdorf,,Nordrhein-Westfalen,D,130.0
+BNA0305,41517,Grevenbroich-Frimmersdorf,,Nordrhein-Westfalen,E,130.0
+BNA0302,41517,Frimmersdorf,,Nordrhein-Westfalen,C,129.0
+BNA0215,47179,Duisburg,Dr. Wilhelm-Roelen-Str.129,Nordrhein-Westfalen,Walsum 7,129.0
+BNA0307,41517,Frimmersdorf,,Nordrhein-Westfalen,I,128.0
+BNA0145,28237,Bremen,Otavistr. 7-9,Bremen,Block 5,127.0
+BNA0710,50129,Bergheim,,Nordrhein-Westfalen,B,125.0
+BNA0711,50129,Bergheim,,Nordrhein-Westfalen,A,125.0
+BNA0432,74076,Heilbronn,Lichtenbergerstraße 23,Baden-Württemberg,HLB 5,125.0
+BNA0433,74076,Heilbronn,Lichtenbergerstraße 23,Baden-Württemberg,HLB 6,125.0
+BNA0082,13599,Berlin,Otternbuchtstr. 11,Berlin,Reuter C,124.0
+BNA0304,41517,Frimmersdorf,,Nordrhein-Westfalen,G,124.0
+BNA0403,22880,Wedel,Tinsdaler Weg 146,Schleswig-Holstein,Wedel 2,123.0
+BNA1021,52249,Eschweiler-Weisweiler,,Nordrhein-Westfalen,C,123.0
+BNA0144,28207,Bremen,Hastedter Osterdeich 255,Bremen,Block 15,119.0
+BNA0189,45711,Datteln,,Nordrhein-Westfalen,3,113.0
+BNA0292,50226,Frechen,,Nordrhein-Westfalen,Frechen/Wachtberg,110.0
+BNA0557b,47812,Krefeld-Uerdingen,"CHEMPARK, Geb. N 230",Nordrhein-Westfalen,,110.0
+BNA0253,66806,Ensdorf,Kurt-Kessler-Str.,Saarland,Block 1,106.0
+BNA0600b,51368,Leverkusen,"CHEMPARK, Geb. G 22",Nordrhein-Westfalen,,103.0
+BNA0211,47053,Duisburg,Zirkelstraße,Nordrhein-Westfalen,ZAWSF,95.0
+BNA0187,45711,Datteln,,Nordrhein-Westfalen,1,95.0
+BNA0188,45711,Datteln,,Nordrhein-Westfalen,2,95.0
+BNA0179,9116,Chemnitz,,Sachsen,Block C,90.8
+BNA0085a,13353,Berlin,Friedrich-Krause-Ufer 10- 15,Berlin,Moabit A,89.0
+BNA1084,42117,Wuppertal,,Nordrhein-Westfalen,Block 3,85.0
+BNA0543,50769,Köln,,Nordrhein-Westfalen,Block 6,75.3
+BNA0183,3052,Cottbus,,Brandenburg,1,74.0
+BNA0489,50354,Hürth,,Nordrhein-Westfalen,E,66.0
+BNA0289b,60627,Frankfurt am Main,Gutleutstraße 231,Hessen,Block 2,61.5
+BNA0290,60627,Frankfurt am Main,Gutleutstraße 231,Hessen,Block 3,61.5
+BNA0177,9115,Chemnitz,,Sachsen,Block B,56.8
+BNA0758,63067,Offenbach,,Hessen,,54.0
+BNA0194,6842,Dessau-Roßlau,,Sachsen-Anhalt,,49.0
+BNA0284,15236,Frankfurt Oder,,Brandenburg,Block1-GuD-EK,45.0
+BNA0490b,50354,Hürth,,Nordrhein-Westfalen,F,45.0
+BNA0138,38106,Braunschweig,,Niedersachsen,Block 1 ,43.3
+BNA0490a,50354,Hürth,,Nordrhein-Westfalen,F,40.0
+BNA0273,24939,Flensburg,Batteriestr. 48,Schleswig-Holstein,Block 8,35.0
+BNA0523,34134,Kassel,,Hessen,,33.5
+BNA0272,24939,Flensburg,Batteriestr. 48,Schleswig-Holstein,Block 9,33.0
+BNA0271,24939,Flensburg,Batteriestr. 48,Schleswig-Holstein,Block 10,29.0
+BNA0270,24939,Flensburg,Batteriestr. 48,Schleswig-Holstein,Block 11,27.0
+BNA0801,75175,Pforzheim,Hohwiesenweg 15,Baden-Württemberg,Wirbelschichtblock,26.9
+BNA0557a,47812,Krefeld-Uerdingen,"CHEMPARK, Geb. L 57",Nordrhein-Westfalen,,26.0
+BNA0274,24939,Flensburg,Batteriestr. 48,Schleswig-Holstein,Block 7,23.0
+BNA0261b,91052,Erlangen, Äußere Bruckerstr. 33,Bayern,K6 DT2,17.4
+BNA0714,50129,Bergheim,,Nordrhein-Westfalen,Fortuna Nord,15.0
+BNA0510b,67655,Kaiserslautern,,Rheinland-Pfalz,20,13.4
+BNA0005,16356,Ahrensfelde,Lindenberger Weg,Brandenburg,GT A,37.5
+BNA0006,16356,Ahrensfelde,Lindenberger Weg,Brandenburg,GT B,37.5
+BNA0007,16356,Ahrensfelde,Lindenberger Weg,Brandenburg,GT C,37.5
+BNA0008,16356,Ahrensfelde,Lindenberger Weg,Brandenburg,GT D,37.5
+BNA0012b,31061,Alfeld,Mühlenmarsch 1,Niedersachsen,Gaskraftwerk,20.0
+BNA0015,73776,Altbach,Industriestraße 11,Baden-Württemberg,ALT GT E (solo),65.0
+BNA0016,73776,Altbach,Industriestraße 11,Baden-Württemberg,ALT GT A (Solo),50.0
+BNA0017,73776,Altbach,Industriestraße 11,Baden-Württemberg,ALT GT B,57.0
+BNA0018,73776,Altbach,Industriestraße 11,Baden-Württemberg,ALT GT C,81.0
+BNA0025,17389,Anklam,Bluthsluster Str. 24,Mecklenburg-Vorpommern,,15.1
+BNA1458,76855,Annweiler,Wasgaustraße 5,Rheinland-Pfalz,,28.0
+BNA1331,59821,Arnsberg,Hellefelderstr. 51,Nordrhein-Westfalen,HD - Kraftwerk,19.0
+BNA1337e,63741,Aschaffenburg,Weichertstr. 7,Bayern,GuD-Anlage,47.0
+BNA1103,86153,Augsburg,Georg-Heindl-Strasse 4,Bayern,Dampfturbine 3,29.0
+BNA0033,86165,Augsburg ,Beim Grenzgraben 10,Bayern,GT,28.8
+BNA1104,86152,Augsburg ,Franziskanergasse 9,Bayern,T2,18.0
+BNA1507,55543,Bad Kreuznach,Michelinstr. 1,Rheinland-Pfalz,,10.7
+BNA1105,36433,Bad Salzungen,,Thüringen,HKW Bad Salzungen,9.7
+BNA0051,39249,Barby,Monplaisirstr. 22,Sachsen-Anhalt,-,17.8
+BNA0059b,34225,Baunatal,,Hessen,,78.0
+BNA1293a,50127,Bergheim,Kölner Straße 110,Nordrhein-Westfalen,K1/TG1,10.0
+BNA1293b,50127,Bergheim,Kölner Straße 110,Nordrhein-Westfalen,K2/TG2,10.0
+BNA1293c,50127,Bergheim,Kölner Straße 110,Nordrhein-Westfalen,K3+4/TG4,3.0
+BNA0073,10179,Berlin,Köpenicker Straße 60,Berlin,GuD Mitte,444.0
+BNA0074,10589,Berlin,Am Spreebord 5,Berlin,Charlottenburg,211.0
+BNA0075,12207,Berlin,Ostpreußendamm 61,Berlin,Lichterfelde 1,144.0
+BNA0076,12207,Berlin,Ostpreußendamm 61,Berlin,Lichterfelde 3,144.0
+BNA0088a,6406,Bernburg,,Sachsen-Anhalt,,66.0
+BNA0098,33611,Bielefeld,,Nordrhein-Westfalen,,23.0
+BNA0100,33697,Bielefeld,,Nordrhein-Westfalen,GuD,37.5
+BNA0101,33611,Bielefeld,,Nordrhein-Westfalen,,41.0
+BNA0105,6749,Bitterfeld,,Sachsen-Anhalt,,106.0
+BNA0110,44799,Bochum,,Nordrhein-Westfalen,KBO,20.7
+BNA0111,44805,Bochum,,Nordrhein-Westfalen,,44.0
 BNA1524,29699,Bomlitz,"Industriepark Walsrode, 
-August-Wolff-Str. 13",Niedersachsen,
-BNA0129,14772,Brandenburg,,Brandenburg,
-BNA0130,14774,Brandenburg,,Brandenburg,
-BNA0140,28207,Bremen,Hastedter Osterdeich 255,Bremen,Block 14
-BNA1334,28237,Bremen,Waterbergstraße 14,Bremen,"GT 1-3, DT"
-BNA1820,28237,Bremen,,Bremen,GuD MiBÜ
-BNA1671,26954,Bremerhaven,,Niedersachsen,
-BNA1117,64747,Breuberg,Höchster Str. 48-60,Hessen,
-BNA0156b,59929,Brilon ,Im Kissen 19,Nordrhein-Westfalen,Gasturbinen - KWK - Anlage
-BNA0157,25576,Brokdorf,,Schleswig-Holstein,KBR
-BNA0172a,84489,Burghausen,Johannes-Hess Straße 24,Bayern,
-BNA0172b,84489,Burghausen,,Bayern,
-BNA0174,84508,Burgkirchen,,Bayern,
-BNA1487,64293,Darmstadt,Frankfurter Str. 100,Hessen,
-BNA1127,84130,Dingolfing,Landshuter Straße 56,Bayern,GT1
-BNA1128,84130,Dingolfing,Landshuter Straße 56,Bayern,GT2
-BNA0202,44143,Dortmund,,Nordrhein-Westfalen,KDO
-BNA1511a,52355,Düren,Kreuzauer Str. 18,Nordrhein-Westfalen,
-BNA1131,52349,Düren,Veldener Strasse 121 - 131,Nordrhein-Westfalen,
-BNA1511b,52355,Düren,Kreuzauer Str. 18,Nordrhein-Westfalen,
-BNA0220,40221,Düsseldorf,Auf der Lausward 75,Nordrhein-Westfalen,AGuD
-BNA0221a,40221,Düsseldorf,Auf der Lausward 75,Nordrhein-Westfalen,Block E GTE2
-BNA0221b,40221,Düsseldorf,Auf der Lausward 75,Nordrhein-Westfalen,Block E GTE1
-BNA0221c,40221,Düsseldorf,Auf der Lausward 75,Nordrhein-Westfalen,Block E
-BNA1503,40476,Düsseldorf,Rather Str. 51,Nordrhein-Westfalen,
-BNA1817,40221,Düsseldorf,Auf der Lausward 75,Nordrhein-Westfalen,GuD F
-BNA0232c,89584,Ehingen,Kessel 6 - Turbine 4,Baden-Württemberg,
-BNA0239,26931,Elsfleth,,Niedersachsen,
-BNA0243,97483,Eltmann,Industriestraße 23,Bayern,
-BNA0245a,26725,Emden,,Niedersachsen,Gasturbine
-BNA0245b,26725,Emden,,Niedersachsen,Dampfturbine
-BNA0251,31857,Emmerthal,,Niedersachsen,KWG
-BNA0255,99085,Erfurt,,Thüringen,
-BNA0256a,99087,Erfurt,,Thüringen,
-BNA0256b,99087,Erfurt,,Thüringen,Linie 3
-BNA1138,40699,Erkrath,Klinkerweg 4,Nordrhein-Westfalen,"Module 1, 2 und 3"
-BNA0261a,91052,Erlangen, Äußere Bruckerstr. 33,Bayern,GuD I
-BNA0261c,91052,Erlangen, Äußere Bruckerstr. 33,Bayern,GuD 2
-BNA1023,52249,Eschweiler-Weisweiler,,Nordrhein-Westfalen,G_VGT
-BNA1024,52249,Eschweiler-Weisweiler,,Nordrhein-Westfalen,H_VGT
-BNA0263,84051,Essenbach,,Bayern,KKI 2
-BNA1819,24939,Flensburg,Batteriestr. 48,Schleswig-Holstein,Block 12
-BNA0285,60528,Frankfurt am Main,Lyoner Straße  8,Hessen,Block 1
-BNA0286,60627,Frankfurt am Main,Gutleutstraße 231,Hessen,Block 4
-BNA1541,9599,Freiberg,,Sachsen,
-BNA0293,79108,Freiburg,,Baden-Württemberg,GuD Anlage
-BNA1492a,36039,Fulda,Hermann-Muth-Str. 6,Hessen,
-BNA1492b,36039,Fulda,Hermann-Muth-Str. 6,Hessen,
-BNA0336,45896,Gelsenkirchen,,Nordrhein-Westfalen,
-BNA0343,7546,Gera,Siemensstraße 45,Thüringen,
-BNA0361,79639,Grenzach-Wyhlen,,Baden-Württemberg,
-BNA0374,63538,Großkrotzenburg,,Hessen,4
-BNA0381,89355,Gundremmingen,,Bayern,B
-BNA0382,89355,Gundremmingen,,Bayern,C
-BNA0386,33334,Gütersloh,Carl Bertelsmann Straße 161,Nordrhein-Westfalen,
-BNA0389,58099,Hagen,,Nordrhein-Westfalen,H4/5
-BNA0392a,6130,Halle,,Sachsen-Anhalt,Block A und B
-BNA0392b,6130,Halle,,Sachsen-Anhalt,GuD
-BNA0400,22113,Hamburg,Andreas-Meyer-Straße 8,Hamburg,GuD Tiefstack
-BNA0401,21107,Hamburg,Nippoldstr. 117,Hamburg,HKW
-BNA0410,59071,Hamm,Trianelstraße 1,Nordrhein-Westfalen,Block 10
-BNA0411,59071,Hamm,Trianelstraße 1,Nordrhein-Westfalen,Block 20
-BNA0418,30169,Hannover,,Niedersachsen,GKL
-BNA0419,30419,Hannover,,Niedersachsen,B
-BNA1810,30659,Hannover,Riethorst 12,Niedersachsen,
-BNA1151,69120,Heidelberg,Neuenheimer Feld 530,Baden-Württemberg,
-BNA0439,38350,Helmstedt,,Niedersachsen,D
-BNA0442,58313,Herdecke,,Nordrhein-Westfalen,H6
-BNA1463,37412,Herzberg,Andreasberger Str. 1,Niedersachsen,
-BNA1499,31249,Hohenhameln,Zuckerfabrik 3,Niedersachsen,
-BNA0464,31249,Hohenhameln OT Mehrum,,Niedersachsen,Block3
-BNA0548a,50351,Hürth-Knapsack,,Nordrhein-Westfalen,
-BNA0548b,50351,Hürth-Knapsack,,Nordrhein-Westfalen,
-BNA0497,65926,Industriepark Höchst,,Hessen,
-BNA0499,65926,Industriepark Höchst,,Hessen,Block A
-BNA1164,52428,Jülich,Dürenerstr. 20,Nordrhein-Westfalen,Kessel 5
-BNA0514,76189,Karlsruhe,Fettweisstraße 42,Baden-Württemberg,RDK 4S
-BNA0521,34134,Kassel,,Hessen,
-BNA1528,47906,Kempen,,Nordrhein-Westfalen,
-BNA0544,50677,Köln,,Nordrhein-Westfalen,GuD
-BNA0545,50735,Köln,,Nordrhein-Westfalen,GuD
-BNA0546,50769,Köln,,Nordrhein-Westfalen,GuD
-BNA1182,50769,Köln,,Nordrhein-Westfalen,Block 4
-BNA1183,51109,Köln,,Nordrhein-Westfalen,GuD
-BNA1818,50735,Köln,,Nordrhein-Westfalen,Niehl 31
-BNA0556a,47809,Krefeld,Düsseldorfer Str. 191,Nordrhein-Westfalen,Dampfturbine
-BNA0556b,47809,Krefeld,Düsseldorfer Str. 191,Nordrhein-Westfalen,Gasmotor (Dieselgenerator)
-BNA1502,47804,Krefeld,,Nordrhein-Westfalen,
-BNA1450,29331,Lachendorf,Georg-Drewsen-Weg 2,Niedersachsen,
-BNA0574a,31628,Landesbergen,,Niedersachsen,Gasturbine
-BNA1658,32657,Lemgo,Bruchweg 24,Nordrhein-Westfalen,
-BNA1193,32657,Lemgo ,Liemer Weg 71,Nordrhein-Westfalen,
-BNA1556,1454,Leppersdorf,An den Breiten,Sachsen,
-BNA0592,6237,Leuna,,Sachsen-Anhalt,
-BNA0593,6237,Leuna,,Sachsen-Anhalt,GT1
-BNA0594,6237,Leuna,,Sachsen-Anhalt,GT2
-BNA0595,6237,Leuna,,Sachsen-Anhalt,GT3
-BNA0600a,51368,Leverkusen,"CHEMPARK, Geb. X 50",Nordrhein-Westfalen,
-BNA0602,49811,Lingen,,Niedersachsen,C1
-BNA0603,49811,Lingen,,Niedersachsen,B1
-BNA0604,49811,Lingen,,Niedersachsen,B2
-BNA0605,49811,Lingen,,Niedersachsen,C2
-BNA0606,49811,Lingen,,Niedersachsen,D
-BNA1509,49808,Lingen,Raffineriestrasse,Niedersachsen,
-BNA0607,49811,Lingen,,Niedersachsen,KKE
-BNA1531,17509,Lubmin,,Mecklenburg-Vorpommern,
-BNA0614a,67056,Ludwigshafen,A 855,Rheinland-Pfalz,GT 1
+August-Wolff-Str. 13",Niedersachsen,,22.1
+BNA0117b,53115,Bonn,,Nordrhein-Westfalen,Heizkraftwerk Karlstraße,95.0
+BNA0129,14772,Brandenburg,,Brandenburg,,36.0
+BNA0130,14774,Brandenburg,,Brandenburg,,160.0
+BNA0135,38106,Braunschweig,,Niedersachsen,Block 12,20.0
+BNA0136,38106,Braunschweig,,Niedersachsen,GuD,74.0
+BNA0137,38112,Braunschweig,,Niedersachsen,GT,25.0
+BNA0140,28207,Bremen,Hastedter Osterdeich 255,Bremen,Block 14,155.0
+BNA1334,28237,Bremen,Waterbergstraße 14,Bremen,"GT 1-3, DT",14.8
+BNA1820,28237,Bremen,,Bremen,GuD MiBÜ,444.5
+BNA1671,26954,Bremerhaven,,Niedersachsen,,17.1
+BNA1117,64747,Breuberg,Höchster Str. 48-60,Hessen,,11.4
+BNA0156b,59929,Brilon ,Im Kissen 19,Nordrhein-Westfalen,Gasturbinen - KWK - Anlage,13.5
+BNA0157,25576,Brokdorf,,Schleswig-Holstein,KBR,1410.0
+BNA0172a,84489,Burghausen,Johannes-Hess Straße 24,Bayern,,120.0
+BNA0172b,84489,Burghausen,,Bayern,,50.0
+BNA0174,84508,Burgkirchen,,Bayern,,47.5
+BNA1120,44579,Castrop-Rauxel,Kekulestraße 30,Nordrhein-Westfalen,Gasturbine,10.2
+BNA1121,44579,Castrop-Rauxel,Kekulestraße 30,Nordrhein-Westfalen,Energiecenter,0.9
+BNA0178,9114,Chemnitz,,Sachsen,Block A,57.2
+BNA1487,64293,Darmstadt,Frankfurter Str. 100,Hessen,,94.6
+BNA1125,64293,Darmstadt ,Frankfurter Str. 250,Hessen,GT,10.0
+BNA1127,84130,Dingolfing,Landshuter Straße 56,Bayern,GT1,6.7
+BNA1128,84130,Dingolfing,Landshuter Straße 56,Bayern,GT2,6.7
+BNA0199,41539,Dormagen,,Nordrhein-Westfalen,GuD,586.3
+BNA0202,44143,Dortmund,,Nordrhein-Westfalen,KDO,26.0
+BNA0207,1169,Dresden ,Oederaner Str. 21 - 25,Sachsen,"HKW Dresden-Nossener Brücke 
+(3 GT + 1 DT, Sammelschiene)",263.0
+BNA1451,47198,Duisburg,Dr.-Rudolf-Sachtleben-Str. 4,Nordrhein-Westfalen,,27.5
+BNA0213,47249,Duisburg,Wanheimer Straße 439-454,Nordrhein-Westfalen,HKW III/A,40.0
+BNA0214,47249,Duisburg,Wanheimer Straße 439-454,Nordrhein-Westfalen,HKW III/B,234.0
+BNA1511a,52355,Düren,Kreuzauer Str. 18,Nordrhein-Westfalen,,9.3
+BNA1131,52349,Düren,Veldener Strasse 121 - 131,Nordrhein-Westfalen,,14.0
+BNA1511b,52355,Düren,Kreuzauer Str. 18,Nordrhein-Westfalen,,2.9
+BNA0220,40221,Düsseldorf,Auf der Lausward 75,Nordrhein-Westfalen,AGuD,100.0
+BNA0221a,40221,Düsseldorf,Auf der Lausward 75,Nordrhein-Westfalen,Block E GTE2,64.7
+BNA0221b,40221,Düsseldorf,Auf der Lausward 75,Nordrhein-Westfalen,Block E GTE1,66.7
+BNA0221c,40221,Düsseldorf,Auf der Lausward 75,Nordrhein-Westfalen,Block E,293.0
+BNA1336,40589,Düsseldorf,Henkelstr. 67,Nordrhein-Westfalen,,84.0
+BNA1503,40476,Düsseldorf,Rather Str. 51,Nordrhein-Westfalen,,16.9
+BNA1817,40221,Düsseldorf,Auf der Lausward 75,Nordrhein-Westfalen,GuD F,595.0
+BNA0232c,89584,Ehingen,Kessel 6 - Turbine 4,Baden-Württemberg,,4.0
+BNA0233,4838,Eilenburg,Am Schanzberg 1,Sachsen,,46.6
+BNA1505,99817,Eisenach,Adam-Opel-Str.,Thüringen,,22.1
+BNA0239,26931,Elsfleth,,Niedersachsen,,321.0
+BNA0243,97483,Eltmann,Industriestraße 23,Bayern,,57.0
+BNA0245a,26725,Emden,,Niedersachsen,Gasturbine,52.0
+BNA0245b,26725,Emden,,Niedersachsen,Dampfturbine,433.0
+BNA0251,31857,Emmerthal,,Niedersachsen,KWG,1360.0
+BNA0255,99085,Erfurt,,Thüringen,,11.0
+BNA0256a,99087,Erfurt,,Thüringen,,76.5
+BNA0256b,99087,Erfurt,,Thüringen,Linie 3,32.6
+BNA1138,40699,Erkrath,Klinkerweg 4,Nordrhein-Westfalen,"Module 1, 2 und 3",10.2
+BNA0261a,91052,Erlangen, Äußere Bruckerstr. 33,Bayern,GuD I,21.6
+BNA0261c,91052,Erlangen, Äußere Bruckerstr. 33,Bayern,GuD 2,6.7
+BNA1023,52249,Eschweiler-Weisweiler,,Nordrhein-Westfalen,G_VGT,272.0
+BNA1024,52249,Eschweiler-Weisweiler,,Nordrhein-Westfalen,H_VGT,272.0
+BNA0263,84051,Essenbach,,Bayern,KKI 2,1410.0
+BNA1141,53879,Euskirchen,Bonner Strasse 2,Nordrhein-Westfalen,Kessel 4 / 6,14.5
+BNA1819,24939,Flensburg,Batteriestr. 48,Schleswig-Holstein,Block 12,75.0
+BNA0285,60528,Frankfurt am Main,Lyoner Straße  8,Hessen,Block 1,70.0
+BNA0286,60627,Frankfurt am Main,Gutleutstraße 231,Hessen,Block 4,99.0
+BNA0288,60528,Frankfurt am Main,Lyoner Straße  9,Hessen,Block 2,56.0
+BNA1541,9599,Freiberg,,Sachsen,,13.4
+BNA0293,79108,Freiburg,,Baden-Württemberg,GuD Anlage,60.1
+BNA1315,79106,Freiburg,Hartmannstrasse 1,Baden-Württemberg,HKW,27.0
+BNA1492a,36039,Fulda,Hermann-Muth-Str. 6,Hessen,,26.2
+BNA1492b,36039,Fulda,Hermann-Muth-Str. 6,Hessen,,8.0
+BNA0336,45896,Gelsenkirchen,,Nordrhein-Westfalen,,70.0
+BNA0343,7546,Gera,Siemensstraße 45,Thüringen,,74.0
+BNA0354,37075,Göttingen,Rudolf-Diesel-Straße 1,Niedersachsen,,18.8
+BNA0360,17489,Greifswald,,Mecklenburg-Vorpommern,Gasturbine,14.7
+BNA0361,79639,Grenzach-Wyhlen,,Baden-Württemberg,,40.0
+BNA0374,63538,Großkrotzenburg,,Hessen,4,622.0
+BNA0381,89355,Gundremmingen,,Bayern,B,1284.0
+BNA0382,89355,Gundremmingen,,Bayern,C,1288.0
+BNA0386,33334,Gütersloh,Carl Bertelsmann Straße 161,Nordrhein-Westfalen,,22.0
+BNA0389,58099,Hagen,,Nordrhein-Westfalen,H4/5,230.0
+BNA0392a,6130,Halle,,Sachsen-Anhalt,Block A und B,97.0
+BNA0392b,6130,Halle,,Sachsen-Anhalt,GuD,54.0
+BNA0400,22113,Hamburg,Andreas-Meyer-Straße 8,Hamburg,GuD Tiefstack,127.0
+BNA0401,21107,Hamburg,Nippoldstr. 117,Hamburg,HKW,22.5
+BNA0410,59071,Hamm,Trianelstraße 1,Nordrhein-Westfalen,Block 10,417.1
+BNA0411,59071,Hamm,Trianelstraße 1,Nordrhein-Westfalen,Block 20,420.9
+BNA0418,30169,Hannover,,Niedersachsen,GKL,230.0
+BNA0419,30419,Hannover,,Niedersachsen,B,102.0
+BNA1810,30659,Hannover,Riethorst 12,Niedersachsen,,30.2
+BNA1151,69120,Heidelberg,Neuenheimer Feld 530,Baden-Württemberg,,13.5
+BNA1292a,89522,Heidenheim,Alexanderstr. 8,Baden-Württemberg,Kessel-Turbine,11.1
+BNA1292b,89522,Heidenheim,Alexanderstr. 8,Baden-Württemberg,BHKW-Anlage,18.9
+BNA0439,38350,Helmstedt,,Niedersachsen,D,352.0
+BNA0442,58313,Herdecke,,Nordrhein-Westfalen,H6,417.0
+BNA0444,36266,Heringen,,Hessen,Wintershall,109.5
+BNA1463,37412,Herzberg,Andreasberger Str. 1,Niedersachsen,,19.5
+BNA1499,31249,Hohenhameln,Zuckerfabrik 3,Niedersachsen,,15.8
+BNA0464,31249,Hohenhameln OT Mehrum,,Niedersachsen,Block3,690.0
+BNA0491,50354,Hürth,,Nordrhein-Westfalen,Ville/Berrenrath,55.0
+BNA0548a,50351,Hürth-Knapsack,,Nordrhein-Westfalen,,800.0
+BNA0548b,50351,Hürth-Knapsack,,Nordrhein-Westfalen,,430.0
+BNA0497,65926,Industriepark Höchst,,Hessen,,96.5
+BNA0499,65926,Industriepark Höchst,,Hessen,Block A,86.0
+BNA0498,65926,Industriepark Höchst,,Hessen,Block B,66.0
+BNA0504,7749,Jena,,Thüringen,HKW Jena,182.0
+BNA1164,52428,Jülich,Dürenerstr. 20,Nordrhein-Westfalen,Kessel 5,24.6
+BNA0510a,67655,Kaiserslautern,,Rheinland-Pfalz,10,11.6
+BNA1165,47546,Kalkar,Reeser Str 280-300,Nordrhein-Westfalen,Lentjes-Kessel,11.4
+BNA0514,76189,Karlsruhe,Fettweisstraße 42,Baden-Württemberg,RDK 4S,353.0
+BNA0515,76189,Karlsruhe,,Baden-Württemberg,T3,37.0
+BNA0521,34134,Kassel,,Hessen,,50.0
+BNA1528,47906,Kempen,,Nordrhein-Westfalen,,13.2
+BNA0527,24116,Kiel,,Schleswig-Holstein,,31.0
+BNA0531,32278,Kirchlengern,,Nordrhein-Westfalen,,201.5
+BNA1506,39164,Klein Wanzleben,Magdeburger Landstraße 1 bis 5,Sachsen-Anhalt,,23.4
+BNA0544,50677,Köln,,Nordrhein-Westfalen,GuD,35.0
+BNA0545,50735,Köln,,Nordrhein-Westfalen,GuD,413.0
+BNA0546,50769,Köln,,Nordrhein-Westfalen,GuD,108.0
+BNA1182,50769,Köln,,Nordrhein-Westfalen,Block 4,15.5
+BNA1183,51109,Köln,,Nordrhein-Westfalen,GuD,15.8
+BNA1818,50735,Köln,,Nordrhein-Westfalen,Niehl 31,459.9
+BNA1185,6420,Könnern,An den Sieben Stücken,Sachsen-Anhalt,Kessel 1 und 2,20.3
+BNA0556a,47809,Krefeld,Düsseldorfer Str. 191,Nordrhein-Westfalen,Dampfturbine,25.8
+BNA0556b,47809,Krefeld,Düsseldorfer Str. 191,Nordrhein-Westfalen,Gasmotor (Dieselgenerator),14.0
+BNA1502,47804,Krefeld,,Nordrhein-Westfalen,,12.6
+BNA1329,9648,Kriebstein,Bauhofstr. 1,Sachsen,GT / GDT,12.8
+BNA1450,29331,Lachendorf,Georg-Drewsen-Weg 2,Niedersachsen,,13.0
+BNA1187,32791,Lage,Heidensche Str. 70,Nordrhein-Westfalen,Kessel 1/2/3,10.2
+BNA0574a,31628,Landesbergen,,Niedersachsen,Gasturbine,56.0
+BNA0588,4105,Leipzig,,Sachsen,,167.0
+BNA1658,32657,Lemgo,Bruchweg 24,Nordrhein-Westfalen,,11.3
+BNA1193,32657,Lemgo ,Liemer Weg 71,Nordrhein-Westfalen,,12.8
+BNA1556,1454,Leppersdorf,An den Breiten,Sachsen,,36.0
+BNA0592,6237,Leuna,,Sachsen-Anhalt,,52.0
+BNA0593,6237,Leuna,,Sachsen-Anhalt,GT1,35.0
+BNA0594,6237,Leuna,,Sachsen-Anhalt,GT2,35.0
+BNA0595,6237,Leuna,,Sachsen-Anhalt,GT3,37.0
+BNA0600a,51368,Leverkusen,"CHEMPARK, Geb. X 50",Nordrhein-Westfalen,,27.0
+BNA0602,49811,Lingen,,Niedersachsen,C1,116.0
+BNA0603,49811,Lingen,,Niedersachsen,B1,116.0
+BNA0604,49811,Lingen,,Niedersachsen,B2,359.0
+BNA0605,49811,Lingen,,Niedersachsen,C2,359.0
+BNA0606,49811,Lingen,,Niedersachsen,D,887.0
+BNA1509,49808,Lingen,Raffineriestrasse,Niedersachsen,,66.0
+BNA0607,49811,Lingen,,Niedersachsen,KKE,1336.0
+BNA1531,17509,Lubmin,,Mecklenburg-Vorpommern,,37.7
+BNA0614a,67056,Ludwigshafen,A 855,Rheinland-Pfalz,GT 1,43.0
 BNA0614b,67056,Ludwigshafen,A 800,Rheinland-Pfalz,"GUD A 800 
-GT 11, GT 12, DT 10"
+GT 11, GT 12, DT 10",490.0
 BNA0615,67056,Ludwigshafen,C 200,Rheinland-Pfalz,"GUD C 200
-GT 1, GT 2, DT 1"
-BNA1196a,67065,Ludwigshafen,Giulinistraße 2,Rheinland-Pfalz,BHKW 
-BNA1196b,67065,Ludwigshafen,Giulinistr. 2,Rheinland-Pfalz,GuD
-BNA0626,55120,Mainz,,Rheinland-Pfalz,KW3
-BNA0627,55120,Mainz,,Rheinland-Pfalz,KW2
-BNA1200,68305,Mannheim,,Baden-Württemberg,
-BNA0658,45772,Marl,Paul-Baumann-Str. 1,Nordrhein-Westfalen,Block 311
-BNA0659,45772,Marl,Paul-Baumann-Str. 1,Nordrhein-Westfalen,Block 312
-BNA1676,45772,Marl,Paul-Baumann-Str. 1,Nordrhein-Westfalen,1
-BNA0661,45772,Marl,Paul-Baumann-Str. 1,Nordrhein-Westfalen,Block 3
-BNA1523a,56727,Mayen,Polcher Str. 113,Rheinland-Pfalz,"Block 1 (Kessel2, GT 1, DT 2)"
-BNA1396,1468,Moritzburg,"Boxdorf, Ringstr. 3",Sachsen,EVC I
-BNA0683a,81371,München,,Bayern,1
-BNA0683b,81371,München,,Bayern,1
-BNA0683c,81371,München,,Bayern,1
-BNA0684a,81371,München,,Bayern,2
-BNA0684b,81371,München,,Bayern,2
-BNA0684c,81371,München,,Bayern,2
-BNA1327a,85326,München,nicht öffentlicher Bereich (Btl. 145.01),Bayern,AGG1 -  AGG7
-BNA1327b,85326,München,nicht öffentlicher Bereich (Btl. 145.01),Bayern,AGG8 - AGG9
-BNA1678,85326,München,,Bayern,
-BNA0686,74382,Neckarwestheim,Im Steinbruch,Baden-Württemberg,GKN II
-BNA1406,41460,Neuss,Düsseldorfer Str. 182-184,Nordrhein-Westfalen,
-BNA0702,93328,Neustadt,Postfach 1252,Bayern,
-BNA1498,31171,Nordstemmen,Calenberger Str. 36,Niedersachsen,
-BNA1402,49638,Nortrup,Hauptstrasse 15,Niedersachsen,
-BNA0734,15806,Nunsdorf,,Brandenburg,GT E
-BNA0738,15806,Nunsdorf,,Brandenburg,GT A
-BNA0739,15806,Nunsdorf,,Brandenburg,GT B
-BNA0740,15806,Nunsdorf,,Brandenburg,GT C
-BNA0741,15806,Nunsdorf,,Brandenburg,GT D
-BNA0742,90441,Nürnberg,Sandreuthstr. 51,Bayern,GuD 1
-BNA0743,90441,Nürnberg,Sandreuthstr. 51,Bayern,GuD 2
-BNA1444a,90471,Nürnberg,Breslauer Str. 300,Bayern,
-BNA1444b,90471,Nürnberg,Breslauer Str. 300,Bayern,
-BNA1444c,90471,Nürnberg,Breslauer Str. 300,Bayern,
-BNA1444d,90471,Nürnberg,Breslauer Str. 300,Bayern,
-BNA0752,46045,Oberhausen,,Nordrhein-Westfalen,HKW 1
-BNA0753,46147,Oberhausen,,Nordrhein-Westfalen,HKW 2
-BNA1467,77704,Oberkirch,Hauptstraße 2-4,Baden-Württemberg,
-BNA0755a,63784,Obernburg,,Bayern,2
-BNA0755b,63784,Obernburg,,Bayern,1
-BNA1516,67283,Obrigheim,Wormser Straße 11,Rheinland-Pfalz,
-BNA0802,76661,Philippsburg,Rheinschanzinsel,Baden-Württemberg,KKP 2
-BNA0804a,36269,Philippsthal,,Hessen,Hattorf
-BNA0804b,36269,Philippsthal,,Hessen,Hattorf
-BNA0805,94447,Plattling,,Bayern,
-BNA0814,14478,Potsdam,,Brandenburg,Gesamtanlage
-BNA1328,83064,Raubling,Rosenheimer Str. 37,Bayern,GUD
-BNA1238,83512,Reitmehring,Megglestraße 6 - 12,Bayern,
-BNA0832,72762,Reutlingen,Hauffstraße 89 m,Baden-Württemberg,Motorenanlage
-BNA1408,79618,Rheinfelden,Untere Kanalstraße 3,Baden-Württemberg,
-BNA0842a,83022,Rosenheim,Färberstraße 47,Bayern,Gasmotore 1-3
-BNA0842b,83022,Rosenheim,Färberstraße 47,Bayern,Gasmotor 4
-BNA0843,83026,Rosenheim,Oberaustraße 12,Bayern,Gasmotor 5
-BNA0848,18069,Rostock,,Mecklenburg-Vorpommern,
-BNA0857,65429,Rüsselheim,,Hessen,M120
-BNA1464,66117,Saarbrücken,Untertürkheimer Straße 5,Saarland,
-BNA0861b,66121,Saarbrücken,,Saarland,Kohleanlage
-BNA1248a,86956,Schongau,Friedrich-Haindl-Strasse 10,Bayern,Dampfkraftwerk
-BNA1248b,86956,Schongau,Friedrich-Haindl-Strasse 10,Bayern,HKW 3
-BNA1486,6317,Seegebiet Mansfelder Land,Chausseestraße 1,Sachsen-Anhalt,
-BNA1437,21683,Stade- Bützfleth,Johann- Rathje- Köser- Straße,Niedersachsen,GT 1/2
-BNA0922,39418,Staßfurt,Athenslebener Weg 57,Sachsen-Anhalt,
-BNA1403,29416,Steinitz,Bobbenmärsche 11 ,Sachsen-Anhalt,GUD
-BNA0196,6682,Teuchern,,Sachsen-Anhalt,
-BNA0957,72072,Tübingen,,Baden-Württemberg, -
-BNA1500,29525,Uelzen,An der Zuckerfabrik 1,Niedersachsen,
-BNA1271,36414,Unterbreizbach,,Thüringen,Unterbreizbach
-BNA1335a,26316,Varel,Dangaster Straße 38,Niedersachsen,KWK-Blöcke
-BNA1335b,26316,Varel,Dangaster Straße 38,Niedersachsen,Kondensationsturbine
-BNA0994,85088,Vohburg,,Bayern,5
-BNA0995,85088,Vohburg,,Bayern,4
-BNA1002,6679,Wählitz,,Sachsen-Anhalt,
-BNA1005,74399,Walheim,Mühlstraße,Baden-Württemberg,WAL 1
-BNA1006,74399,Walheim,Mühlstraße,Baden-Württemberg,WAL 2
-BNA1407,9600,Weißenborn,Fabrikstraße 1,Sachsen,
-BNA1039,59368,Werne,,Nordrhein-Westfalen,F1
-BNA1040,59368,Werne,,Nordrhein-Westfalen,G1
-BNA1041,59368,Werne,,Nordrhein-Westfalen,H1
-BNA1042,59368,Werne,,Nordrhein-Westfalen,I1
-BNA1043,59368,Werne,,Nordrhein-Westfalen,I2
-BNA1044,59368,Werne,,Nordrhein-Westfalen,F2
-BNA1045,59368,Werne,,Nordrhein-Westfalen,G2
-BNA1046b,59368,Werne,,Nordrhein-Westfalen,K1 
-BNA1056,65203,Wiesbaden,,Hessen,Block 1
-BNA1465b,37213,Witzenhausen,Kasseler Landstr. 23,Hessen,
-BNA1504,76742,Woerth,Daimler Str. 1,Rheinland-Pfalz,
-BNA1074,6766,Wolfen,,Sachsen-Anhalt,
-BNA1677,38436,Wolfsburg,Berliner Ring,Niedersachsen,
-BNA1076a,38436,Wolfsburg,,Niedersachsen,Block 1
-BNA1076b,38436,Wolfsburg,,Niedersachsen,Block 2
-BNA1284,67547,Worms,In der Hollerhecke 1,Rheinland-Pfalz,-
-BNA1285,31515,Wunstorf,,Niedersachsen,Sigmundshall
-BNA1082,42275,Wuppertal,,Nordrhein-Westfalen,Block 1
-BNA1085,97080,Würzburg,Veitshöchheimer Str. 1,Bayern,TSIII
-BNA1086,97080,Würzburg,Veitshöchheimer Str. 1,Bayern,TSII
-BNA1087,97080,Würzburg,Veitshöchheimer Str. 1,Bayern,GTII
-BNA1088,97080,Würzburg,Veitshöchheimer Str. 1,Bayern,GTI
-BNA1089,39326,Zielitz,,Sachsen-Anhalt,Zielitz
-BNA1097,53909,Zülpich,Bessenicher Weg,Nordrhein-Westfalen,K06
-BNA1094,53910,Zülpich,Bessenicher Weg,Nordrhein-Westfalen,GKW
-BNA1557,8056,Zwickau,Glauchauer Str. 40,Sachsen,
-BNA0574b,31628,Landesbergen,,Niedersachsen,Dampfturbine
-BNA1337a,63741,Aschaffenburg,Weichertstr. 7,Bayern,Heizkraftwerk
-BNA0118,53121,Bonn,,Nordrhein-Westfalen,Heizkraftwerk Süd
-BNA0812,32457,Porta Westfalica,,Nordrhein-Westfalen,2
-BNA0913,2979,Spreetal,Südstraße,Sachsen,GuD
-BNA0680,4613,Mumsdorf,,Sachsen-Anhalt,
-BNA0059a,34225,Baunatal,,Hessen,Turbine 1
-BNA0448,44652,Herne,,Nordrhein-Westfalen,
-BNA0203,44357,Dortmund,,Nordrhein-Westfalen,C
-BNA0933,70376,Stuttgart,Langwiesenweg 23,Baden-Württemberg,GAI GT 13
-BNA0099,33649,Bielefeld,,Nordrhein-Westfalen,GT Ummeln
-BNA0355,97506,Grafenrheinfeld,,Bayern,KKG
-BNA0681,80807,München,,Bayern,1
-BNA0682,80807,München,,Bayern,2
-BNA0922a,39418,Staßfurt,Athenslebener Weg 57,Sachsen-Anhalt,
-BNA0080,12207,Berlin,Ostpreußendamm 61,Berlin,Lichterfelde 2
-BNA0735,15806,Nunsdorf,,Brandenburg,GT F
-BNA0736,15806,Nunsdorf,,Brandenburg,GT G
-BNA0737,15806,Nunsdorf,,Brandenburg,GT H
+GT 1, GT 2, DT 1",390.0
+BNA1196a,67065,Ludwigshafen,Giulinistraße 2,Rheinland-Pfalz,BHKW ,12.5
+BNA1196b,67065,Ludwigshafen,Giulinistr. 2,Rheinland-Pfalz,GuD,12.0
+BNA0626,55120,Mainz,,Rheinland-Pfalz,KW3,434.2
+BNA0627,55120,Mainz,,Rheinland-Pfalz,KW2,335.0
+BNA1200,68305,Mannheim,,Baden-Württemberg,,17.2
+BNA0658,45772,Marl,Paul-Baumann-Str. 1,Nordrhein-Westfalen,Block 311,61.1
+BNA0659,45772,Marl,Paul-Baumann-Str. 1,Nordrhein-Westfalen,Block 312,77.6
+BNA1676,45772,Marl,Paul-Baumann-Str. 1,Nordrhein-Westfalen,1,60.6
+BNA0660,45772,Marl,Paul-Baumann-Str. 1,Nordrhein-Westfalen,Block 4 ,55.3
+BNA0661,45772,Marl,Paul-Baumann-Str. 1,Nordrhein-Westfalen,Block 3,60.4
+BNA0662a,45772,Marl,Paul-Baumann-Str. 1,Nordrhein-Westfalen,Block 5 ,60.2
+BNA1523a,56727,Mayen,Polcher Str. 113,Rheinland-Pfalz,"Block 1 (Kessel2, GT 1, DT 2)",42.0
+BNA1332,47443,Moers,Römerstr. 733,Nordrhein-Westfalen,TG7/8,24.0
+BNA1396,1468,Moritzburg,"Boxdorf, Ringstr. 3",Sachsen,EVC I,34.3
+BNA0683a,81371,München,,Bayern,1,79.7
+BNA0683b,81371,München,,Bayern,1,97.9
+BNA0683c,81371,München,,Bayern,1,97.9
+BNA0684a,81371,München,,Bayern,2,124.9
+BNA0684b,81371,München,,Bayern,2,123.9
+BNA0684c,81371,München,,Bayern,2,127.6
+BNA1327a,85326,München,nicht öffentlicher Bereich (Btl. 145.01),Bayern,AGG1 -  AGG7,11.1
+BNA1327b,85326,München,nicht öffentlicher Bereich (Btl. 145.01),Bayern,AGG8 - AGG9,7.4
+BNA1678,85326,München,,Bayern,,17.2
+BNA0685,48145,Münster,,Nordrhein-Westfalen,GuD,100.2
+BNA0686,74382,Neckarwestheim,Im Steinbruch,Baden-Württemberg,GKN II,1310.0
+BNA0688,17034,Neubrandenburg,,Mecklenburg-Vorpommern,,75.0
+BNA1406,41460,Neuss,Düsseldorfer Str. 182-184,Nordrhein-Westfalen,,18.9
+BNA0702,93328,Neustadt,Postfach 1252,Bayern,,25.4
+BNA1498,31171,Nordstemmen,Calenberger Str. 36,Niedersachsen,,30.6
+BNA1402,49638,Nortrup,Hauptstrasse 15,Niedersachsen,,18.1
+BNA0734,15806,Nunsdorf,,Brandenburg,GT E,37.5
+BNA0738,15806,Nunsdorf,,Brandenburg,GT A,36.5
+BNA0739,15806,Nunsdorf,,Brandenburg,GT B,36.5
+BNA0740,15806,Nunsdorf,,Brandenburg,GT C,36.5
+BNA0741,15806,Nunsdorf,,Brandenburg,GT D,36.5
+BNA0742,90441,Nürnberg,Sandreuthstr. 51,Bayern,GuD 1,75.0
+BNA0743,90441,Nürnberg,Sandreuthstr. 51,Bayern,GuD 2,75.0
+BNA0744,90449,Nürnberg,,Bayern,1,383.0
+BNA0745,90449,Nürnberg,,Bayern,2,440.0
+BNA1444a,90471,Nürnberg,Breslauer Str. 300,Bayern,,4.2
+BNA1444b,90471,Nürnberg,Breslauer Str. 300,Bayern,,4.2
+BNA1444c,90471,Nürnberg,Breslauer Str. 300,Bayern,,5.1
+BNA1444d,90471,Nürnberg,Breslauer Str. 300,Bayern,,5.1
+BNA0752,46045,Oberhausen,,Nordrhein-Westfalen,HKW 1,23.1
+BNA0753,46147,Oberhausen,,Nordrhein-Westfalen,HKW 2,24.5
+BNA1467,77704,Oberkirch,Hauptstraße 2-4,Baden-Württemberg,,20.0
+BNA0755a,63784,Obernburg,,Bayern,2,36.0
+BNA0755b,63784,Obernburg,,Bayern,1,64.0
+BNA1516,67283,Obrigheim,Wormser Straße 11,Rheinland-Pfalz,,30.0
+BNA1225,82380,Peißenberg,,Bayern,MHKW 2,5.3
+BNA1226,82380,Peißenberg,,Bayern,MHKW 1,5.3
+BNA0800,75175,Pforzheim,Hohwiesenweg 15,Baden-Württemberg,Kombiblock/GuD,41.2
+BNA0802,76661,Philippsburg,Rheinschanzinsel,Baden-Württemberg,KKP 2,1402.0
+BNA0804a,36269,Philippsthal,,Hessen,Hattorf,35.0
+BNA0804b,36269,Philippsthal,,Hessen,Hattorf,17.3
+BNA0805,94447,Plattling,,Bayern,,97.9
+BNA0814,14478,Potsdam,,Brandenburg,Gesamtanlage,81.8
+BNA1328,83064,Raubling,Rosenheimer Str. 37,Bayern,GUD,24.0
+BNA1238,83512,Reitmehring,Megglestraße 6 - 12,Bayern,,15.1
+BNA0832,72762,Reutlingen,Hauffstraße 89 m,Baden-Württemberg,Motorenanlage,9.8
+BNA0834,47495,Rheinberg,,Nordrhein-Westfalen,,79.0
+BNA1408,79618,Rheinfelden,Untere Kanalstraße 3,Baden-Württemberg,,16.0
+BNA0842a,83022,Rosenheim,Färberstraße 47,Bayern,Gasmotore 1-3,9.8
+BNA0842b,83022,Rosenheim,Färberstraße 47,Bayern,Gasmotor 4,9.2
+BNA0843,83026,Rosenheim,Oberaustraße 12,Bayern,Gasmotor 5,4.3
+BNA0848,18069,Rostock,,Mecklenburg-Vorpommern,,108.0
+BNA0856,7407,Rudolstadt,,Thüringen,,26.5
+BNA0857,65429,Rüsselheim,,Hessen,M120,112.1
+BNA0861a,66121,Saarbrücken,,Saarland,GuD-Anlage,75.0
+BNA1464,66117,Saarbrücken,Untertürkheimer Straße 5,Saarland,,38.6
+BNA0861b,66121,Saarbrücken,,Saarland,Kohleanlage,50.0
+BNA1248a,86956,Schongau,Friedrich-Haindl-Strasse 10,Bayern,Dampfkraftwerk,82.0
+BNA1248b,86956,Schongau,Friedrich-Haindl-Strasse 10,Bayern,HKW 3,65.0
+BNA0893,1987,Schwarzheide,Schipkauer Str.1,Brandenburg,,122.0
+BNA0896,19061,Schwerin,,Mecklenburg-Vorpommern,,44.9
+BNA0897,19057,Schwerin,,Mecklenburg-Vorpommern,,23.0
+BNA1486,6317,Seegebiet Mansfelder Land,Chausseestraße 1,Sachsen-Anhalt,,45.0
+BNA1260,71059,Sindelfingen,,Baden-Württemberg,Sammelschienen-HKW,95.0
+BNA0918b,21683,Stade,Bützflethersand,Niedersachsen,Cogen Dow Stade,173.0
+BNA1437,21683,Stade- Bützfleth,Johann- Rathje- Köser- Straße,Niedersachsen,GT 1/2,30.7
+BNA0922,39418,Staßfurt,Athenslebener Weg 57,Sachsen-Anhalt,,123.0
+BNA1403,29416,Steinitz,Bobbenmärsche 11 ,Sachsen-Anhalt,GUD,11.4
+BNA1489,39576,Stendal,Schillerstraße,Sachsen-Anhalt,,22.0
+BNA0926b,63811,Stockstadt,Obernburger Straße 1-9,Bayern,Konventionelles Sammelschienenkraftwerk,24.8
+BNA1333a,70569,Stuttgart,Pfaffenwaldring 8,Baden-Württemberg,Anlage 40,12.2
+BNA1333b,70569,Stuttgart,Pfaffenwaldring 8,Baden-Württemberg,Block 50,11.3
+BNA1333c,70569,Stuttgart,Pfaffenwaldring 8,Baden-Württemberg,Block 60,11.6
+BNA0934,70376,Stuttgart,Langwiesenweg 23,Baden-Württemberg,GAI DT 14 neu,22.6
+BNA0935,70376,Stuttgart,Voltastraße 45,Baden-Württemberg,MÜN DT12,45.0
+BNA0936,70376,Stuttgart,Voltastraße 45,Baden-Württemberg,MÜN DT15,45.0
+BNA1264,98528,Suhl,Fröhliche-Mann-Straße 2,Thüringen,,13.5
+BNA0196,6682,Teuchern,,Sachsen-Anhalt,,67.0
+BNA0957,72072,Tübingen,,Baden-Württemberg, -,13.4
+BNA1500,29525,Uelzen,An der Zuckerfabrik 1,Niedersachsen,,40.0
+BNA1405a,89077,Ulm,Magirusstr. 21,Baden-Württemberg,,20.7
+BNA1271,36414,Unterbreizbach,,Thüringen,Unterbreizbach,33.6
+BNA1335a,26316,Varel,Dangaster Straße 38,Niedersachsen,KWK-Blöcke,58.1
+BNA1335b,26316,Varel,Dangaster Straße 38,Niedersachsen,Kondensationsturbine,0.5
+BNA0993,85088,Vohburg,,Bayern,3,415.0
+BNA0994,85088,Vohburg,,Bayern,5,846.0
+BNA0995,85088,Vohburg,,Bayern,4,545.0
+BNA1002,6679,Wählitz,,Sachsen-Anhalt,,31.0
+BNA1005,74399,Walheim,Mühlstraße,Baden-Württemberg,WAL 1,96.0
+BNA1006,74399,Walheim,Mühlstraße,Baden-Württemberg,WAL 2,148.0
+BNA1407,9600,Weißenborn,Fabrikstraße 1,Sachsen,,13.5
+BNA1039,59368,Werne,,Nordrhein-Westfalen,F1,55.0
+BNA1040,59368,Werne,,Nordrhein-Westfalen,G1,55.0
+BNA1041,59368,Werne,,Nordrhein-Westfalen,H1,55.0
+BNA1042,59368,Werne,,Nordrhein-Westfalen,I1,55.0
+BNA1043,59368,Werne,,Nordrhein-Westfalen,I2,355.0
+BNA1044,59368,Werne,,Nordrhein-Westfalen,F2,355.0
+BNA1045,59368,Werne,,Nordrhein-Westfalen,G2,355.0
+BNA1046b,59368,Werne,,Nordrhein-Westfalen,K1 ,112.0
+BNA1279,50389,Wesseling,,Nordrhein-Westfalen,D290,51.9
+BNA1056,65203,Wiesbaden,,Hessen,Block 1,25.0
+BNA1465b,37213,Witzenhausen,Kasseler Landstr. 23,Hessen,,13.2
+BNA1504,76742,Woerth,Daimler Str. 1,Rheinland-Pfalz,,13.0
+BNA1074,6766,Wolfen,,Sachsen-Anhalt,,40.0
+BNA1677,38436,Wolfsburg,Berliner Ring,Niedersachsen,,10.4
+BNA1075a,38436,Wolfsburg,,Niedersachsen,Generator A,61.5
+BNA1075b,38436,Wolfsburg,,Niedersachsen,Generator B,61.5
+BNA1076a,38436,Wolfsburg,,Niedersachsen,Block 1,138.5
+BNA1076b,38436,Wolfsburg,,Niedersachsen,Block 2,138.5
+BNA1284,67547,Worms,In der Hollerhecke 1,Rheinland-Pfalz,-,11.5
+BNA1078,76744,Wörth,Am Oberwald 2,Rheinland-Pfalz,,59.0
+BNA1285,31515,Wunstorf,,Niedersachsen,Sigmundshall,19.0
+BNA1082,42275,Wuppertal,,Nordrhein-Westfalen,Block 1,82.0
+BNA1085,97080,Würzburg,Veitshöchheimer Str. 1,Bayern,TSIII,23.0
+BNA1086,97080,Würzburg,Veitshöchheimer Str. 1,Bayern,TSII,25.0
+BNA1087,97080,Würzburg,Veitshöchheimer Str. 1,Bayern,GTII,29.5
+BNA1088,97080,Würzburg,Veitshöchheimer Str. 1,Bayern,GTI,44.5
+BNA1400a,6712,Zeitz,Albrechtstr. 54,Sachsen-Anhalt,WSK,18.5
+BNA1461,6712,Zeitz,Albrechtstr. 54,Sachsen-Anhalt,,17.5
+BNA1089,39326,Zielitz,,Sachsen-Anhalt,Zielitz,52.0
+BNA1097,53909,Zülpich,Bessenicher Weg,Nordrhein-Westfalen,K06,19.5
+BNA1094,53910,Zülpich,Bessenicher Weg,Nordrhein-Westfalen,GKW,15.1
+BNA1557,8056,Zwickau,Glauchauer Str. 40,Sachsen,,12.9
+BNA0574b,31628,Landesbergen,,Niedersachsen,Dampfturbine,431.0
+BNA1337a,63741,Aschaffenburg,Weichertstr. 7,Bayern,Heizkraftwerk,27.0
+BNA0118,53121,Bonn,,Nordrhein-Westfalen,Heizkraftwerk Süd,14.4
+BNA0812,32457,Porta Westfalica,,Nordrhein-Westfalen,2,93.0
+BNA0011,79774,Albbruck,,Baden-Württemberg,,28.0
+BNA0913,2979,Spreetal,Südstraße,Sachsen,GuD,50.0
+BNA0680,4613,Mumsdorf,,Sachsen-Anhalt,,60.0
+BNA0059a,34225,Baunatal,,Hessen,Turbine 1,12.2
+BNA0448,44652,Herne,,Nordrhein-Westfalen,,132.0
+BNA1275,69469,Weinheim,Höhnerweg 2-4,Baden-Württemberg,2,21.0
+BNA1276,69469,Weinheim,Höhnerweg 2-4,Baden-Württemberg,1,21.0
+BNA0203,44357,Dortmund,,Nordrhein-Westfalen,C,345.0
+BNA0918a,21683,Stade,Bützflethersand,Niedersachsen,Kraftwärmekopplungsanlage,190.0
+BNA0933,70376,Stuttgart,Langwiesenweg 23,Baden-Württemberg,GAI GT 13,55.0
+BNA0099,33649,Bielefeld,,Nordrhein-Westfalen,GT Ummeln,55.0
+BNA0355,97506,Grafenrheinfeld,,Bayern,KKG,1275.0
+BNA0813,32457,Porta Westfalica,,Nordrhein-Westfalen,3,303.0
+BNA0810,32457,Porta Westfalica,,Nordrhein-Westfalen,4 GT,65.0
+BNA0811,32457,Porta Westfalica,,Nordrhein-Westfalen,4 DT,335.0
+BNA0681,80807,München,,Bayern,1,80.0
+BNA0682,80807,München,,Bayern,2,80.0
+BNA0922a,39418,Staßfurt,Athenslebener Weg 57,Sachsen-Anhalt,,9.0
+BNA0080,12207,Berlin,Ostpreußendamm 61,Berlin,Lichterfelde 2,144.0
+BNA0799,75175,Pforzheim,Hohwiesenweg 15,Baden-Württemberg,Gaskesselanlage,11.3
+BNA0735,15806,Nunsdorf,,Brandenburg,GT F,37.5
+BNA0736,15806,Nunsdorf,,Brandenburg,GT G,37.5
+BNA0737,15806,Nunsdorf,,Brandenburg,GT H,37.5
