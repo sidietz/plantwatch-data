@@ -1,0 +1,11 @@
+*.csv
+*.zip
+*.bak
+**/.ipynb_checkpoints
+__pycache__/
+
+
+!/plants_next/*
+!/basic/block_plant_mapper.csv
+
+
