@@ -334,7 +334,7 @@
             "Block 3",
             "Block 2"
         ],
-        "M4": "",
+        "M4": "BNA0289a",
         "Block 4": "BNA0286",
         "Block 3": "BNA0290",
         "Block 2": "BNA0289b"
@@ -350,8 +350,8 @@
             "B",
             "A"
         ],
-        "B": "",
-        "A": ""
+        "B": "BNA0486",
+        "A": "BNA0485"
     },
     "Huntorf": {
         "list": [
@@ -367,7 +367,7 @@
             "Block 1 SE 1",
             "Block 2 SE 2"
         ],
-        "SE 4": "",
+        "SE 4": "BNA0894e",
         "Block 6 SE 6": "BNA0894b",
         "Block 5 SE 5": "BNA0894a",
         "Block 1 SE 1": "BNA0894c",
@@ -479,7 +479,7 @@
             "Block 5",
             "Block 6"
         ],
-        "MKK": "",
+        "MKK": "BNA0139",
         "Block 5": "BNA0145",
         "Block 6": "BNA0146"
     },
@@ -778,7 +778,7 @@
             "Block 2 Tiefstack",
             "Gas-und-Dampfturbinen Tiefstack"
         ],
-        "Block 2 Tiefstack": "",
+        "Block 2 Tiefstack": "BNA0402",
         "Gas-und-Dampfturbinen Tiefstack": "BNA0400"
     },
     "Trianel_Gaskraftwerk_": {
