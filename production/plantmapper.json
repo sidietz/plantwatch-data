@@ -906,5 +906,7 @@
    "Kraftwerk_West": {
        "list": ["West 2", "West 1"],
        "West 1": "BNA0989",
-       "West 2": "BNA0990"}
+       "West 2": "BNA0990"},
+"K_stenkraftwerk_K.I.E.L.": {"list":
+                             ["BHKW Modul 1-20"], "BHKW Modul 1-20": "BNA1945"}
 }
