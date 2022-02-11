@@ -61,7 +61,7 @@
         "3.0": "BNA0189",
         "1.0": "BNA0187",
         "2.0": "BNA0188",
-        "4.0": ""
+        "4.0": "BNA1949"
     },
     "Dormagen": {
         "list": [
@@ -908,5 +908,16 @@
        "West 1": "BNA0989",
        "West 2": "BNA0990"},
 "K_stenkraftwerk_K.I.E.L.": {"list":
-                             ["BHKW Modul 1-20"], "BHKW Modul 1-20": "BNA1945"}
+                             ["BHKW Modul 1-20"], "BHKW Modul 1-20": "BNA1945"},
+"Wedel": {
+    "list": ["GT B", "GT A", "Wedel 1", "Wedel 2"],
+    "GT A": "BNA1015",
+    "GT B": "BNA1016",
+    "Wedel 1": "BNA0404",
+    "Wedel 2": "BNA0403"},
+"Wehr_A": {"list": ["Wehr A"],
+    "Wehr A": "BNA1019"},
+"Wehr_B": {
+    "list": ["Wehr B"],
+    "Wehr B": "BNA1019"}
 }
