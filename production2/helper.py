@@ -8,7 +8,7 @@ def get_files_from_folder(folder):
     return files
 
 def get_plant(f):
-    return f.split("/")[2].rsplit("_", 3)[0]
+    return f.split("/")[2].rsplit("_", 4)[0]
 
 def get_mapper(file):
     mapper = {}
