@@ -1,0 +1,862 @@
+{
+    "Bergkamen": {
+        "list": [
+            "A"
+        ],
+        "A": ""
+    },
+    "Boxberg": {
+        "list": [
+            "R",
+            "Q",
+            "P",
+            "N"
+        ],
+        "R": "",
+        "Q": "",
+        "P": "",
+        "N": ""
+    },
+    "Braunkohlekraftwerk_Lippendorf": {
+        "list": [
+            "R",
+            "LIP S"
+        ],
+        "R": "",
+        "LIP S": ""
+    },
+    "Brokdorf": {
+        "list": [
+            "KBR"
+        ],
+        "KBR": ""
+    },
+    "Burghausen_GT": {
+        "list": [
+            "Burghausen_GT 1",
+            "BGH - O1"
+        ],
+        "Burghausen_GT 1": "",
+        "BGH - O1": ""
+    },
+    "Buschhaus": {
+        "list": [
+            "D"
+        ],
+        "D": ""
+    },
+    "Cuno_Heizkraftwerk_Herdecke": {
+        "list": [
+            "H6"
+        ],
+        "H6": ""
+    },
+    "Datteln": {
+        "list": [
+            "3.0",
+            "1.0",
+            "2.0",
+            "4.0"
+        ],
+        "3.0": "",
+        "1.0": "",
+        "2.0": "",
+        "4.0": ""
+    },
+    "Dormagen": {
+        "list": [
+            "Gas-und-Dampfturbinen"
+        ],
+        "Gas-und-Dampfturbinen": ""
+    },
+    "Duisburg_Hamborn": {
+        "list": [
+            "Block 3",
+            "Block 4",
+            "Block 5"
+        ],
+        "Block 3": "",
+        "Block 4": "",
+        "Block 5": ""
+    },
+    "Duisburg_Heizkraftwerk_III": {
+        "list": [
+            "III/A",
+            "III/B"
+        ],
+        "III/A": "",
+        "III/B": ""
+    },
+    "Duisburg_Ruhrort": {
+        "list": [
+            "Block 3",
+            "Block 2",
+            "Block 4"
+        ],
+        "Block 3": "",
+        "Block 2": "",
+        "Block 4": ""
+    },
+    "E-Werk_Wilhelmshaven": {
+        "list": [
+            "1.0",
+            "GT"
+        ],
+        "1.0": "",
+        "GT": ""
+    },
+    "Emsland": {
+        "list": [
+            "C2",
+            "B2",
+            "D",
+            "C1",
+            "B1"
+        ],
+        "C2": "",
+        "B2": "",
+        "D": "",
+        "C1": "",
+        "B1": ""
+    },
+    "Farge": {
+        "list": [
+            "Farge"
+        ],
+        "Farge": ""
+    },
+    "Franken_1": {
+        "list": [
+            "1.0",
+            "2.0"
+        ],
+        "1.0": "",
+        "2.0": ""
+    },
+    "GKH_St_cken": {
+        "list": [
+            "Block2",
+            "Block1"
+        ],
+        "Block2": "",
+        "Block1": ""
+    },
+    "Gas-und-Dampfturbinen_Kraftwerk_Mitte": {
+        "list": [
+            "Gas-und-Dampfturbinen Mitte"
+        ],
+        "Gas-und-Dampfturbinen Mitte": ""
+    },
+    "Gaskraftwerk_Irsching": {
+        "list": [
+            "4.0",
+            "3.0",
+            "5.0"
+        ],
+        "4.0": "",
+        "3.0": "",
+        "5.0": ""
+    },
+    "Gemeinschaftskernkraftwerk_Neckarwestheim_II": {
+        "list": [
+            "GKN II"
+        ],
+        "GKN II": ""
+    },
+    "Gemeinschaftskraftwerk_Kiel": {
+        "list": [
+            ""
+        ],
+        "": ""
+    },
+    "Gersteinwerk": {
+        "list": [
+            "G1",
+            "I1",
+            "F1",
+            "H1",
+            "I2",
+            "K1 ",
+            "F2",
+            "G2",
+            "K2"
+        ],
+        "G1": "",
+        "I1": "",
+        "F1": "",
+        "H1": "",
+        "I2": "",
+        "K1 ": "",
+        "F2": "",
+        "G2": "",
+        "K2": ""
+    },
+    "Goldisthal": {
+        "list": [
+            "PSS A",
+            "PSS C",
+            "PSS D",
+            "PSS B"
+        ],
+        "PSS A": "",
+        "PSS C": "",
+        "PSS D": "",
+        "PSS B": ""
+    },
+    "Grohnde": {
+        "list": [
+            "KraftwerkG"
+        ],
+        "KraftwerkG": ""
+    },
+    "Heizkraftwerk_Altbach_Deizisau": {
+        "list": [
+            "ALT GT E (solo)",
+            "ALT GT A (Solo)",
+            "ALT GT B",
+            "ALT GT C",
+            "ALT Heizkraftwerk 1",
+            "ALT Heizkraftwerk 2 (DT Solobetrieb)"
+        ],
+        "ALT GT E (solo)": "",
+        "ALT GT A (Solo)": "",
+        "ALT GT B": "",
+        "ALT GT C": "",
+        "ALT Heizkraftwerk 1": "",
+        "ALT Heizkraftwerk 2 (DT Solobetrieb)": ""
+    },
+    "Heizkraftwerk_Dresden-Nossener_Br_cke": {
+        "list": [
+            "Heizkraftwerk Dresden-Nossener Br\u00fccke \n"
+        ],
+        "Heizkraftwerk Dresden-Nossener Br\u00fccke \n": ""
+    },
+    "Heizkraftwerk_Hagen-Kabel": {
+        "list": [
+            "H4/5"
+        ],
+        "H4/5": ""
+    },
+    "Heizkraftwerk_Heilbronn": {
+        "list": [
+            "HLB 6",
+            "HLB 5",
+            "HLB 7"
+        ],
+        "HLB 6": "",
+        "HLB 5": "",
+        "HLB 7": ""
+    },
+    "Heizkraftwerk_Lausward": {
+        "list": [
+            "Block E GTE1",
+            "Block E GTE2",
+            "GuD F",
+            "AGas-und-Dampfturbinen",
+            "Block E"
+        ],
+        "Block E GTE1": "",
+        "Block E GTE2": "",
+        "GuD F": "",
+        "AGas-und-Dampfturbinen": "",
+        "Block E": ""
+    },
+    "Heizkraftwerk_Leipzig-Nord": {
+        "list": [
+            ""
+        ],
+        "": ""
+    },
+    "Heizkraftwerk_M_nchen_S_d_GUD1_": {
+        "list": [
+            "S\u00fcd DT1",
+            "S\u00fcd GT3",
+            "S\u00fcd GT2"
+        ],
+        "S\u00fcd DT1": "",
+        "S\u00fcd GT3": "",
+        "S\u00fcd GT2": ""
+    },
+    "Heizkraftwerk_M_nchen_S_d_GUD2": {
+        "list": [
+            "S\u00fcd GT 61",
+            "S\u00fcd DT 60",
+            "S\u00fcd GT 62"
+        ],
+        "S\u00fcd GT 61": "",
+        "S\u00fcd DT 60": "",
+        "S\u00fcd GT 62": ""
+    },
+    "Heizkraftwerk_Merkenich": {
+        "list": [
+            "Block 4",
+            "Block 6",
+            "Gas-und-Dampfturbinen"
+        ],
+        "Block 4": "",
+        "Block 6": "",
+        "Gas-und-Dampfturbinen": ""
+    },
+    "Heizkraftwerk_Niehl": {
+        "list": [
+            "Gas-und-Dampfturbinen",
+            "Niehl 3"
+        ],
+        "Gas-und-Dampfturbinen": "",
+        "Niehl 3": ""
+    },
+    "Heizkraftwerk_R_merbr_cke": {
+        "list": [
+            "Gas-und-Dampfturbinen-Anlage",
+            "Kohleanlage"
+        ],
+        "Gas-und-Dampfturbinen-Anlage": "",
+        "Kohleanlage": ""
+    },
+    "Heizkraftwerk_West_Wolfsburg": {
+        "list": [
+            "Block 1",
+            "Block 2"
+        ],
+        "Block 1": "",
+        "Block 2": ""
+    },
+    "Heizkraftwerk_West__Frankfurt_": {
+        "list": [
+            "M4",
+            "Block 4",
+            "Block 3",
+            "Block 2"
+        ],
+        "M4": "",
+        "Block 4": "",
+        "Block 3": "",
+        "Block 2": ""
+    },
+    "Heyden": {
+        "list": [
+            "4.0"
+        ],
+        "4.0": ""
+    },
+    "Huckingen": {
+        "list": [
+            "B",
+            "A"
+        ],
+        "B": "",
+        "A": ""
+    },
+    "Huntorf": {
+        "list": [
+            ""
+        ],
+        "": ""
+    },
+    "IKS_PCK_Schwedt": {
+        "list": [
+            "SE 4",
+            "Block 6 SE 6",
+            "Block 5 SE 5",
+            "Block 1 SE 1",
+            "Block 2 SE 2"
+        ],
+        "SE 4": "",
+        "Block 6 SE 6": "",
+        "Block 5 SE 5": "",
+        "Block 1 SE 1": "",
+        "Block 2 SE 2": ""
+    },
+    "Ibbenb_ren": {
+        "list": [
+            "B"
+        ],
+        "B": ""
+    },
+    "Isar_2": {
+        "list": [
+            "KKI 2"
+        ],
+        "KKI 2": ""
+    },
+    "KNG_Kraftwerk_Rostock": {
+        "list": [
+            "Rostock"
+        ],
+        "Rostock": ""
+    },
+    "KWH_Hannover": {
+        "list": [
+            "B"
+        ],
+        "B": ""
+    },
+    "KWM_Mehrum": {
+        "list": [
+            "Block3"
+        ],
+        "Block3": ""
+    },
+    "Kernkraft_Gundremmingen_": {
+        "list": [
+            "C",
+            "B"
+        ],
+        "C": "",
+        "B": ""
+    },
+    "Kernkraftwerk_Emsland": {
+        "list": [
+            "KKE"
+        ],
+        "KKE": ""
+    },
+    "Kernkraftwerk_Philippsburg_2": {
+        "list": [
+            "KKP 2"
+        ],
+        "KKP 2": ""
+    },
+    "Klingenberg": {
+        "list": [
+            "Klingenberg"
+        ],
+        "Klingenberg": ""
+    },
+    "Knapsack_Gas_II": {
+        "list": [
+            "II"
+        ],
+        "II": ""
+    },
+    "Knapsack_Gas_I": {
+        "list": [
+            "I"
+        ],
+        "I": ""
+    },
+    "Koepchenwerk": {
+        "list": [
+            "Koepchenwerk"
+        ],
+        "Koepchenwerk": ""
+    },
+    "Kraftwerk_BASF_Ludwigshafen_Mitte": {
+        "list": [
+            "GUD A 800 \n"
+        ],
+        "GUD A 800 \n": ""
+    },
+    "Kraftwerk_BASF_Ludwigshafen_S_d": {
+        "list": [
+            "GUD C 200\n"
+        ],
+        "GUD C 200\n": ""
+    },
+    "Kraftwerk_Bexbach": {
+        "list": [
+            "BEX"
+        ],
+        "BEX": ""
+    },
+    "Kraftwerk_Bremer_Hafen": {
+        "list": [
+            "MKK",
+            "Block 5",
+            "Block 6"
+        ],
+        "MKK": "",
+        "Block 5": "",
+        "Block 6": ""
+    },
+    "Kraftwerk_Hastedt": {
+        "list": [
+            "Block 14",
+            "Block 15"
+        ],
+        "Block 14": "",
+        "Block 15": ""
+    },
+    "Kraftwerk_Herne": {
+        "list": [
+            "Herne 2",
+            "Herne 3",
+            "Herne 4"
+        ],
+        "Herne 2": "",
+        "Herne 3": "",
+        "Herne 4": ""
+    },
+    "Kraftwerk_Ingolstadt": {
+        "list": [
+            "3.0",
+            "4.0"
+        ],
+        "3.0": "",
+        "4.0": ""
+    },
+    "Kraftwerk_J_nschwalde": {
+        "list": [
+            "E",
+            "D",
+            "C",
+            "F",
+            "B",
+            "A"
+        ],
+        "E": "",
+        "D": "",
+        "C": "",
+        "F": "",
+        "B": "",
+        "A": ""
+    },
+    "Kraftwerk_L_nen": {
+        "list": [
+            "L\u00fcnen 7",
+            "L\u00fcnen 6"
+        ],
+        "L\u00fcnen 7": "",
+        "L\u00fcnen 6": ""
+    },
+    "Kraftwerk_Mainz": {
+        "list": [
+            "Kraftwerk3",
+            "Kraftwerk2"
+        ],
+        "Kraftwerk3": "",
+        "Kraftwerk2": ""
+    },
+    "Kraftwerk_Mittelsb_ren": {
+        "list": [
+            "GT 3",
+            "Block 4",
+            "Block 3"
+        ],
+        "GT 3": "",
+        "Block 4": "",
+        "Block 3": ""
+    },
+    "Kraftwerk_Rheinfelden": {
+        "list": [
+            "Kraftwerk Rheinfelden"
+        ],
+        "Kraftwerk Rheinfelden": ""
+    },
+    "Kraftwerk_Walheim": {
+        "list": [
+            "WAL 2",
+            "WAL 1",
+            "WAL GT D"
+        ],
+        "WAL 2": "",
+        "WAL 1": "",
+        "WAL GT D": ""
+    },
+    "Kraftwerk_Walsum": {
+        "list": [
+            "Walsum 10",
+            "Walsum 9",
+            "Walsum 7"
+        ],
+        "Walsum 10": "",
+        "Walsum 9": "",
+        "Walsum 7": ""
+    },
+    "Kraftwerk_Werdohl-Elverlingsen": {
+        "list": [
+            "E 1/2",
+            "E3",
+            "E4"
+        ],
+        "E 1/2": "",
+        "E3": "",
+        "E4": ""
+    },
+    "Kraftwerk_Wilhelmshaven": {
+        "list": [
+            "Kraftwerk Wilhelmshaven"
+        ],
+        "Kraftwerk Wilhelmshaven": ""
+    },
+    "Lichterfelde": {
+        "list": [
+            "Lichterfelde 2",
+            "Lichterfelde 3",
+            "Lichterfelde 1"
+        ],
+        "Lichterfelde 2": "",
+        "Lichterfelde 3": "",
+        "Lichterfelde 1": ""
+    },
+    "M_nchen_Nord_2": {
+        "list": [
+            "1.0",
+            "3.0",
+            "2.0"
+        ],
+        "1.0": "",
+        "3.0": "",
+        "2.0": ""
+    },
+    "Markersbach": {
+        "list": [
+            "PSS B",
+            "PSS C",
+            "PSS D",
+            "PSS F",
+            "PSS E",
+            "PSS A"
+        ],
+        "PSS B": "",
+        "PSS C": "",
+        "PSS D": "",
+        "PSS F": "",
+        "PSS E": "",
+        "PSS A": ""
+    },
+    "Moorburg": {
+        "list": [
+            "Moorburg B",
+            "Moorburg A"
+        ],
+        "Moorburg B": "",
+        "Moorburg A": ""
+    },
+    "Neurath": {
+        "list": [
+            "G",
+            "C",
+            "F",
+            "A",
+            "B",
+            "D",
+            "E"
+        ],
+        "G": "",
+        "C": "",
+        "F": "",
+        "A": "",
+        "B": "",
+        "D": "",
+        "E": ""
+    },
+    "Niederau_em": {
+        "list": [
+            "G",
+            "H",
+            "D",
+            "E",
+            "C",
+            "B",
+            "F",
+            "K",
+            "A"
+        ],
+        "G": "",
+        "H": "",
+        "D": "",
+        "E": "",
+        "C": "",
+        "B": "",
+        "F": "",
+        "K": "",
+        "A": ""
+    },
+    "Restm_ll-Heizkraftwerk_Stuttgart-M_nster": {
+        "list": [
+            "M\u00dcN GT17",
+            "M\u00dcN GT18",
+            "M\u00dcN GT16",
+            "M\u00dcN DT15",
+            "M\u00dcN DT12",
+            "M\u00dcN DT19 neu"
+        ],
+        "M\u00dcN GT17": "",
+        "M\u00dcN GT18": "",
+        "M\u00dcN GT16": "",
+        "M\u00dcN DT15": "",
+        "M\u00dcN DT12": "",
+        "M\u00dcN DT19 neu": ""
+    },
+    "Reuter": {
+        "list": [
+            "Reuter M",
+            "Reuter C"
+        ],
+        "Reuter M": "",
+        "Reuter C": ""
+    },
+    "Reuter_West": {
+        "list": [
+            "Reuter West D",
+            "Reuter West E"
+        ],
+        "Reuter West D": "",
+        "Reuter West E": ""
+    },
+    "Rheinhafen-Dampfkraftwerk": {
+        "list": [
+            "RDK 8",
+            "RDK 7",
+            "RDK 4S"
+        ],
+        "RDK 8": "",
+        "RDK 7": "",
+        "RDK 4S": ""
+    },
+    "Rheinkraftwerk_Iffezheim": {
+        "list": [
+            "Iffezheim M1-M5"
+        ],
+        "Iffezheim M1-M5": ""
+    },
+    "S_ckingen": {
+        "list": [
+            "S\u00e4ckingen"
+        ],
+        "S\u00e4ckingen": ""
+    },
+    "Schkopau": {
+        "list": [
+            "B",
+            "A"
+        ],
+        "B": "",
+        "A": ""
+    },
+    "Scholven": {
+        "list": [
+            "B",
+            "C",
+            "F",
+            "E",
+            "D"
+        ],
+        "B": "",
+        "C": "",
+        "F": "",
+        "E": "",
+        "D": ""
+    },
+    "Schwarze_Pumpe": {
+        "list": [
+            "A",
+            "B"
+        ],
+        "A": "",
+        "B": ""
+    },
+    "Staudinger": {
+        "list": [
+            "5.0",
+            "4.0",
+            "3.0",
+            "1.0"
+        ],
+        "5.0": "",
+        "4.0": "",
+        "3.0": "",
+        "1.0": ""
+    },
+    "Tiefstack": {
+        "list": [
+            "Block 2 Tiefstack",
+            "Gas-und-Dampfturbinen Tiefstack"
+        ],
+        "Block 2 Tiefstack": "",
+        "Gas-und-Dampfturbinen Tiefstack": ""
+    },
+    "Trianel_Gaskraftwerk_": {
+        "list": [
+            "Block 10",
+            "Block 20"
+        ],
+        "Block 10": "",
+        "Block 20": ""
+    },
+    "Trianel_Kohlekraftwerk_L_nen": {
+        "list": [
+            "Trianel Kohlekraftwerk L\u00fcnen"
+        ],
+        "Trianel Kohlekraftwerk L\u00fcnen": ""
+    },
+    "V_lklingen": {
+        "list": [
+            "MKV",
+            "HKV"
+        ],
+        "MKV": "",
+        "HKV": ""
+    },
+    "Waldeck_2": {
+        "list": [
+            "M6",
+            "M5"
+        ],
+        "M6": "",
+        "M5": ""
+    },
+    "Wehr": {
+        "list": [
+            "Wehr"
+        ],
+        "Wehr": ""
+    },
+    "Weiher": {
+        "list": [
+            "Weiher III"
+        ],
+        "Weiher III": ""
+    },
+    "Weisweiler": {
+        "list": [
+            "D",
+            "C",
+            "H_VGT",
+            "G_VGT",
+            "F",
+            "H",
+            "G",
+            "E"
+        ],
+        "D": "",
+        "C": "",
+        "H_VGT": "",
+        "G_VGT": "",
+        "F": "",
+        "H": "",
+        "G": "",
+        "E": ""
+    },
+    "Westfalen": {
+        "list": [
+            "D",
+            "B",
+            "A",
+            "C",
+            "E"
+        ],
+        "D": "",
+        "B": "",
+        "A": "",
+        "C": "",
+        "E": ""
+    },
+    "Witznau": {
+        "list": [
+            "Witznau"
+        ],
+        "Witznau": ""
+    },
+    "Zolling": {
+        "list": [
+            "GT1 & GT2",
+            "BMHeizkraftwerk",
+            "Zolling Block 5"
+        ],
+        "GT1 & GT2": "",
+        "BMHeizkraftwerk": "",
+        "Zolling Block 5": ""
+    }
+}

@@ -1,0 +1,197 @@
+[ 
+  { 
+    "key": [{ "en":"Boxberg N" , "de":"Boxberg N" , "fr":"Boxberg N" , "it":"Boxberg N" }] ,
+    "color" : "rgb(166,206,227)" ,
+    "eexUnitID" : [ "E000016-001" , "E000140-001" ] ,
+    "chartTitle": [{ "en":"Percentage of full load of lignite power units in Germany in 2019" , "de":"Prozentuale Volllast von Braunkohlebl\u00f6cken in Deutschland in 2019" , "fr": "Pourcentage de pleine charge de lignite en Allemagne en 2019" , "it": "Percentuale piena dalla lignite in Germania in 2019" }] ,
+    "xAxisFormat" :  "integer", 
+    "xAxisLabel": [{ "en":"Year" , "de":"Jahr" , "fr":"Ann\u00e9e" , "it":"Anno" }] ,
+    "y1AxisLabel": [{ "en":"Percentage of full load (%)" , "de":"Prozentuale Volllast (%)" , "fr":"Pourcentage de pleine charge (%)" , "it":"Percentuale a pieno carico (%)" }] ,
+    "y1AxisDecimalPlaces" : 1 ,
+    "stacked" : "false" ,
+    "comment" : [{ "en":"This data is published with a time lag of five days." , "de":"Diese Daten werden mit einem Zeitversatz von f\u00fcnf Tagen  ver\u00f6ffentlicht." , "fr":"Ces donn\u00e9es sont publi\u00e9es avec un d\u00e9lai de cinq jours." , "it":"Questi dati vengono rilasciati con un ritardo di cinque giorni." }] ,
+    "datasource" :  "EEX", 
+    "date" :  1578238450000 , 
+    "values" : [ [ 2019 , 62.41 ] ] 
+  } , 
+  { 
+    "key": [{ "en":"Boxberg P" , "de":"Boxberg P" , "fr":"Boxberg P" , "it":"Boxberg P" }] ,
+    "color" : "rgb(31,120,180)" ,
+    "eexUnitID" : [ "E000016-002" , "E000140-002" ] ,
+    "values" : [ [ 2019 , 83.3 ] ] 
+  } , 
+  { 
+    "key": [{ "en":"Boxberg Q" , "de":"Boxberg Q" , "fr":"Boxberg Q" , "it":"Boxberg Q" }] ,
+    "color" : "rgb(178,223,138)" ,
+    "eexUnitID" : [ "E000016-003" , "E000140-003" ] ,
+    "values" : [ [ 2019 , 87.36 ] ] 
+  } , 
+  { 
+    "key": [{ "en":"Boxberg R" , "de":"Boxberg R" , "fr":"Boxberg R" , "it":"Boxberg R" }] ,
+    "color" : "rgb(51,160,44)" ,
+    "eexUnitID" : [ "E000016-004" , "E000140-004" ] ,
+    "values" : [ [ 2019 , 73.88 ] ] 
+  } , 
+  { 
+    "key": [{ "en":"J\u00e4nschwalde A" , "de":"J\u00e4nschwalde A" , "fr":"J\u00e4nschwalde A" , "it":"J\u00e4nschwalde A" }] ,
+    "color" : "rgb(255,127,0)" ,
+    "eexUnitID" : [ "E000015-001" , "E000141-001" ] ,
+    "values" : [ [ 2019 , 78.94 ] ] 
+  } , 
+  { 
+    "key": [{ "en":"J\u00e4nschwalde B" , "de":"J\u00e4nschwalde B" , "fr":"J\u00e4nschwalde B" , "it":"J\u00e4nschwalde B" }] ,
+    "color" : "rgb(202,178,214)" ,
+    "eexUnitID" : [ "E000015-002" , "E000141-002" ] ,
+    "values" : [ [ 2019 , 77.87 ] ] 
+  } , 
+  { 
+    "key": [{ "en":"J\u00e4nschwalde C" , "de":"J\u00e4nschwalde C" , "fr":"J\u00e4nschwalde C" , "it":"J\u00e4nschwalde C" }] ,
+    "color" : "rgb(228,26,28)" ,
+    "eexUnitID" : [ "E000015-003" , "E000141-003" ] ,
+    "values" : [ [ 2019 , 60.1 ] ] 
+  } , 
+  { 
+    "key": [{ "en":"J\u00e4nschwalde D" , "de":"J\u00e4nschwalde D" , "fr":"J\u00e4nschwalde D" , "it":"J\u00e4nschwalde D" }] ,
+    "color" : "rgb(55,126,184)" ,
+    "eexUnitID" : [ "E000015-004" , "E000141-004" ] ,
+    "values" : [ [ 2019 , 71.77 ] ] 
+  } , 
+  { 
+    "key": [{ "en":"J\u00e4nschwalde E" , "de":"J\u00e4nschwalde E" , "fr":"J\u00e4nschwalde E" , "it":"J\u00e4nschwalde E" }] ,
+    "color" : "rgb(77,175,74)" ,
+    "eexUnitID" : [ "E000015-005" , "E000141-005" ] ,
+    "values" : [ [ 2019 , 72.48 ] ] 
+  } , 
+  { 
+    "key": [{ "en":"Lippendorf R" , "de":"Lippendorf R" , "fr":"Lippendorf R" , "it":"Lippendorf R" }] ,
+    "color" : "rgb(255,127,0)" ,
+    "eexUnitID" : [ "E000064-001", "E000142-001" ] ,
+    "values" : [ [ 2019 , 61.51 ] ] 
+  } , 
+  { 
+    "key": [{ "en":"Lippendorf S" , "de":"Lippendorf S" , "fr":"Lippendorf S" , "it":"Lippendorf S" }] ,
+    "color" : "rgb(255,255,51)" ,
+    "eexUnitID" : [ "E000064-002", "E000142-002" ] ,
+    "values" : [ [ 2019 , 56.91 ] ] 
+  } , 
+  { 
+    "key": [{ "en":"Neurath A" , "de":"Neurath A" , "fr":"Neurath A" , "it":"Neurath A" }] ,
+    "color" : "rgb(247,129,191)" ,
+    "eexUnitID" : "E000077-001" ,
+    "values" : [ [ 2019 , 64.75 ] ] 
+  } , 
+  { 
+    "key": [{ "en":"Neurath B" , "de":"Neurath B" , "fr":"Neurath B" , "it":"Neurath B" }] ,
+    "color" : "rgb(153,153,153)" ,
+    "eexUnitID" : "E000077-002" ,
+    "values" : [ [ 2019 , 50.26 ] ] 
+  } , 
+  { 
+    "key": [{ "en":"Neurath C" , "de":"Neurath C" , "fr":"Neurath C" , "it":"Neurath C" }] ,
+    "color" : "rgb(141,211,199)" ,
+    "eexUnitID" : "E000077-003" ,
+    "values" : [ [ 2019 , 46.03 ] ] 
+  } , 
+  { 
+    "key": [{ "en":"Neurath D" , "de":"Neurath D" , "fr":"Neurath D" , "it":"Neurath D" }] ,
+    "color" : "rgb(255,255,179)" ,
+    "eexUnitID" : "E000077-004" ,
+    "values" : [ [ 2019 , 31.92 ] ] 
+  } , 
+  { 
+    "key": [{ "en":"Neurath E" , "de":"Neurath E" , "fr":"Neurath E" , "it":"Neurath E" }] ,
+    "color" : "rgb(190,186,218)" ,
+    "eexUnitID" : "E000077-005" ,
+    "values" : [ [ 2019 , 59.69 ] ] 
+  } , 
+  { 
+    "key": [{ "en":"Neurath F" , "de":"Neurath F" , "fr":"Neurath F" , "it":"Neurath F" }] ,
+    "color" : "rgb(251,128,114)" ,
+    "eexUnitID" : "E000077-006" ,
+    "values" : [ [ 2019 , 59.29 ] ] 
+  } , 
+  { 
+    "key": [{ "en":"Neurath G" , "de":"Neurath G" , "fr":"Neurath G" , "it":"Neurath G" }] ,
+    "color" : "rgb(128,177,211)" ,
+    "eexUnitID" : "E000077-007" ,
+    "values" : [ [ 2019 , 70.48 ] ] 
+  } , 
+  { 
+    "key": [{ "en":"Niederaussem C" , "de":"Niederau\u00dfem C" , "fr":"Niederaussem C" , "it":"Niederaussem C" }] ,
+    "color" : "rgb(252,205,229)" ,
+    "eexUnitID" : "E000078-003" ,
+    "values" : [ [ 2019 , 66.59 ] ] 
+  } , 
+  { 
+    "key": [{ "en":"Niederaussem D" , "de":"Niederau\u00dfem D" , "fr":"Niederaussem D" , "it":"Niederaussem D" }] ,
+    "color" : "rgb(210,210,210)" ,
+    "eexUnitID" : "E000078-004" ,
+    "values" : [ [ 2019 , 62.62 ] ] 
+  } , 
+  { 
+    "key": [{ "en":"Niederaussem G" , "de":"Niederau\u00dfem G" , "fr":"Niederaussem G" , "it":"Niederaussem G" }] ,
+    "color" : "rgb(204,235,197)" ,
+    "eexUnitID" : "E000078-007" ,
+    "values" : [ [ 2019 , 54.98 ] ] 
+  } , 
+  { 
+    "key": [{ "en":"Niederaussem H" , "de":"Niederau\u00dfem H" , "fr":"Niederaussem H" , "it":"Niederaussem H" }] ,
+    "color" : "rgb(222,203,228)" ,
+    "eexUnitID" : "E000078-008" ,
+    "values" : [ [ 2019 , 58.61 ] ] 
+  } , 
+  { 
+    "key": [{ "en":"Niederaussem K" , "de":"Niederau\u00dfem K" , "fr":"Niederaussem K" , "it":"Niederaussem K" }] ,
+    "color" : "rgb(254,217,166)" ,
+    "eexUnitID" : "E000078-009" ,
+    "values" : [ [ 2019 , 80.42 ] ] 
+  } , 
+  { 
+    "key": [{ "en":"Schkopau A" , "de":"Schkopau A" , "fr":"Schkopau A" , "it":"Schkopau A" }] ,
+    "color" : "rgb(255,255,204)" ,
+    "eexUnitID" : "E000057-001" ,
+    "values" : [ [ 2019 , 42.91 ] ] 
+  } , 
+  { 
+    "key": [{ "en":"Schkopau B" , "de":"Schkopau B" , "fr":"Schkopau B" , "it":"Schkopau B" }] ,
+    "color" : "rgb(229,216,189)" ,
+    "eexUnitID" : "E000057-002" ,
+    "values" : [ [ 2019 , 30.35 ] ] 
+  } , 
+  { 
+    "key": [{ "en":"Schwarze Pumpe A" , "de":"Schwarze Pumpe A" , "fr":"Schwarze Pumpe A" , "it":"Schwarze Pumpe A" }] ,
+    "color" : "rgb(253,218,236)" ,
+    "eexUnitID" : [ "E000063-001" , "E000143-001" ] ,
+    "values" : [ [ 2019 , 74.5 ] ] 
+  } , 
+  { 
+    "key": [{ "en":"Schwarze Pumpe B" , "de":"Schwarze Pumpe B" , "fr":"Schwarze Pumpe B" , "it":"Schwarze Pumpe B" }] ,
+    "color" : "rgb(230,230,230)" ,
+    "eexUnitID" : [ "E000063-002" , "E000143-002" ] ,
+    "values" : [ [ 2019 , 66.11 ] ] 
+  } , 
+  { 
+    "key": [{ "en":"Weisweiler E" , "de":"Weisweiler E" , "fr":"Weisweiler E" , "it":"Weisweiler E" }] ,
+    "color" : "rgb(166,206,227)" ,
+    "eexUnitID" : "E000079-003" ,
+    "values" : [ [ 2019 , 65.63 ] ] 
+  } , 
+  { 
+    "key": [{ "en":"Weisweiler F" , "de":"Weisweiler F" , "fr":"Weisweiler F" , "it":"Weisweiler F" }] ,
+    "color" : "rgb(31,120,180)" ,
+    "eexUnitID" : "E000079-004" ,
+    "values" : [ [ 2019 , 39.3 ] ] 
+  } , 
+  { 
+    "key": [{ "en":"Weisweiler G" , "de":"Weisweiler G" , "fr":"Weisweiler G" , "it":"Weisweiler G" }] ,
+    "color" : "rgb(178,223,138)" ,
+    "eexUnitID" : "E000079-005" ,
+    "values" : [ [ 2019 , 54.41 ] ] 
+  } , 
+  { 
+    "key": [{ "en":"Weisweiler H" , "de":"Weisweiler H" , "fr":"Weisweiler H" , "it":"Weisweiler H" }] ,
+    "color" : "rgb(51,160,44)" ,
+    "eexUnitID" : "E000079-006" ,
+    "values" : [ [ 2019 , 74.64 ] ] 
+  }
+]
