@@ -45,6 +45,14 @@
         ],
         "D": "BNA0439"
     },
+    "Charlottenburg": {
+        "list": [
+            "G4",
+            "G5"
+        ],
+        "G4": "SEE926090463146",
+        "G5": "SEE962934119541"
+    },
     "Cuno_Heizkraftwerk_Herdecke": {
         "list": [
             "H6"
@@ -119,7 +127,7 @@
         "C1": "SEE921098709050",
         "B1": "SEE951620659119"
     },
-    "Farge": {
+    "Kraftwerk_Farge": {
         "list": [
             "Farge"
         ],
@@ -145,7 +153,7 @@
         "list": [
             "Gas-und-Dampfturbinen Mitte"
         ],
-        "Gas-und-Dampfturbinen Mitte": ""
+        "Gas-und-Dampfturbinen Mitte": "SEE904819420762"
     },
     "Gaskraftwerk_Irsching": {
         "list": [
@@ -208,6 +216,12 @@
             "KraftwerkG"
         ],
         "KraftwerkG": "BNA0251"
+    },
+    "GuD_Marzahn": {
+        "list": [
+            "Dampfturbine"
+        ],
+        "Dampfturbine": "SEE937536026146"
     },
     "Heizkraftwerk_Altbach_Deizisau": {
         "list": [
@@ -402,6 +416,12 @@
             "3"
         ],
         "3": "SEE904194792843"
+    },
+    "K_stenkraftwerk_K.I.E.L.": {
+        "list": [
+            "BHKW Modul 1-20"
+        ],
+        "BHKW Modul 1-20": "SEE951839779134"
     },
     "Kernkraft_Gundremmingen_": {
         "list": [
@@ -874,7 +894,7 @@
             "Kraftwerk Zolling"
         ],
         "GT1 & GT2": "SEE949509046600",
-        "Biomasse-HKW": "SEE918648599230",
+        "Zolling Biomasse-HKW": "SEE918648599230",
         "Kraftwerk Zolling": "SEE958847865460"
     },
     "Frimmersdorf": {
@@ -922,12 +942,6 @@
         ],
         "West 1": "BNA0989",
         "West 2": "BNA0990"
-    },
-    "K_stenkraftwerk_K.I.E.L.": {
-        "list": [
-            "BHKW Modul 1-20"
-        ],
-        "BHKW Modul 1-20": "SEE940475173918"
     },
     "Wedel": {
         "list": [
