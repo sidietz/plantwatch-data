@@ -8,3 +8,4 @@ __pycache__/
 !/plants_next/*
 !/basic/block_plant_mapper.csv
 !/basic/plant_sse_mapper.csv
+!/basic/inspire_prtr_mapper.csv
