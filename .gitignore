@@ -9,3 +9,4 @@ __pycache__/
 !/basic/block_plant_mapper.csv
 !/basic/plant_sse_mapper.csv
 !/basic/inspire_prtr_mapper.csv
+!/money/nat_mapper_2025.csv
