@@ -4,7 +4,7 @@ def get_price(x):
     elif x == "Steinkohle":
         return 120
     elif x == "Braunkohle":
-        return 18
+        return 18 # https://green-planet-energy.de/blog/energiewende/kohleausstieg/subventionen-fuer-kohlekonzerne/
     else:
         return 75
 
