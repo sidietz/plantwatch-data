@@ -1,3 +1,5 @@
+import re
+
 def match_inspire(name):
     if re.match(r"DE.EEA\/[0-9]+\.FACILITY", name):
         return "DE.EEA" + re.search("[0-9]+", name)[0]
