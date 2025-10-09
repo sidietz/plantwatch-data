@@ -629,13 +629,13 @@
     },
     "M_nchen_Nord_2": {
         "list": [
-            "1.0",
-            "3.0",
-            "2.0"
+            "T10",
+            "T30",
+            "T20"
         ],
-        "1.0": "SEE942366584926",
-        "3.0": "SEE998278854237",
-        "2.0": "SEE952372080091"
+        "T10": "SEE942366584926",
+        "T30": "SEE998278854237",
+        "T20": "SEE952372080091"
     },
     "Markersbach": {
         "list": [
@@ -894,7 +894,7 @@
             "Kraftwerk Zolling"
         ],
         "GT1 & GT2": "SEE949509046600",
-        "Zolling Biomasse-HKW": "SEE918648599230",
+        "Biomasse-HKW": "SEE918648599230",
         "Kraftwerk Zolling": "SEE958847865460"
     },
     "Frimmersdorf": {
