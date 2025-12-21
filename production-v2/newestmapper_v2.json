@@ -1,0 +1,603 @@
+{
+    "Kraftwerk_Boxberg": {
+        "list": [
+            "Block R",
+            "Block Q",
+            "Block P",
+            "Block N"
+        ],
+        "Block R": "SEE968582186379",
+        "Block Q": "SEE907389779292",
+        "Block P": "SEE908125004449",
+        "Block N": "SEE985842749525"
+    },
+    "Kraftwerk_Lippendorf": {
+        "list": [
+            "Block R",
+            "Block S"
+        ],
+        "Block R": "SEE966331411864",
+        "Block S": "SEE998199911088"
+    },
+    "Kraftwerk_Burghausen": {
+        "list": [
+            "1",
+            "12"
+        ],
+        "1": "SEE947816911833",
+        "12": "SEE956085205437"
+    },
+    "Kraftwerk_Datteln": {
+        "list": [
+            "Block 4",
+            "Block 1",
+            "Block 2",
+            "Block 3"
+        ],
+        "Block 4": "SEE913516809497",
+        "Block 1": "BNA0187",
+        "Block 2": "BNA0188",
+        "Block 3": "BNA0189"
+    },
+    "Kraftwerk Fenne": {
+        "list": [
+            "Fenne MKV",
+            "Fenne HKV",
+            "Fenne MKV Gasturbine"
+        ],
+        "Fenne MKV": "SEE919393178787",
+        "Fenne HKV": "SEE987838157994",
+        "Fenne MKV Gasturbine": "SEE923485223774"
+    },
+    "GuD_Dormagen": {
+        "list": [
+            "Dormagen DT",
+            "Dormagen GT1",
+            "Dormagen GT2",
+            "Dormagen"
+        ],
+        "Dormagen DT": "SEE991220769276",
+        "Dormagen GT1": "SEE914857304191",
+        "Dormagen GT2": "SEE908089235248",
+        "Dormagen": "BNA0199"
+    },
+    "Heizkraftwerk_III_Duisburg": {
+        "list": [
+            "A",
+            "III/B"
+        ],
+        "A": "SEE964745752825",
+        "III/B": "SEE922855765289"
+    },
+    "Kraftwerk_Emsland": {
+        "list": [
+            "B DT",
+            "C DT",
+            "D GT1",
+            "D GT2",
+            "C GT1",
+            "C GT2",
+            "B GT1",
+            "B GT2",
+            "D DT"
+        ],
+        "B DT": "SEE985908351792",
+        "C DT": "SEE994418588468",
+        "D GT1": "SEE911671792326",
+        "D GT2": "SEE929022761297",
+        "C GT1": "SEE921098709050",
+        "C GT2": "SEE925192446583",
+        "B GT1": "SEE933564106935",
+        "B GT2": "SEE951620659119",
+        "D DT": "SEE979958390276"
+    },
+    "Kraftwerk_Franken_1": {
+        "list": [
+            "DT1",
+            "DT2",
+            "GT2"
+        ],
+        "DT1": "SEE911764038249",
+        "DT2": "SEE922477386435",
+        "GT2": "SEE982367992610"
+    },
+    "Gemeinschaftskraftwerk_St_cken": {
+        "list": [
+            "Block 1",
+            "Block 2"
+        ],
+        "Block 1": "SEE987633796220",
+        "Block 2": "SEE932928232242"
+    },
+    "Heizkraftwerk_Berlin_Mitte": {
+        "list": [
+            "GT 1",
+            "GT 2",
+            "HKW Mitte Dampfturbine"
+        ],
+        "GT 1": "SEE904819420762",
+        "GT 2": "SEE948541471333",
+        "HKW Mitte Dampfturbine": "SEE992187994404"
+    },
+    "Kraftwerk_Irsching": {
+        "list": [
+            "Irsching 3",
+            "Irsching 4",
+            "Irsching 6",
+            "Irsching 5 DT",
+            "Irsching 5 GT2",
+            "Irsching 5 GT1"
+        ],
+        "Irsching 3": "SEE963541517812",
+        "Irsching 4": "SEE948129095272",
+        "Irsching 6": "SEE915432109163",
+        "Irsching 5 DT": "SEE915883553447",
+        "Irsching 5 GT2": "SEE924780675428",
+        "Irsching 5 GT1": "SEE973737205324"
+    },
+    "Gersteinwerk": {
+        "list": [
+            "Gersteinwerk G GT (G1)",
+            "Gersteinwerk I GT (I1)",
+            "Gersteinwerk F GT (F1)",
+            "Gersteinwerk I DT (I2)",
+            "Gersteinwerk F DT (F2)",
+            "Gersteinwerk G DT (G2)",
+            "Gersteinwerk K",
+            "Gersteinwerk H1"
+        ],
+        "Gersteinwerk G GT (G1)": "SEE932787342328",
+        "Gersteinwerk I GT (I1)": "SEE995899706617",
+        "Gersteinwerk F GT (F1)": "SEE923304040681",
+        "Gersteinwerk I DT (I2)": "SEE939426112649",
+        "Gersteinwerk F DT (F2)": "SEE942237774470",
+        "Gersteinwerk G DT (G2)": "SEE908672656115",
+        "Gersteinwerk K": "SEE964242179781",
+        "Gersteinwerk H1": "SEE978654614532"
+    },
+    "Heizkraftwerk_Altbach_Deizisau": {
+        "list": [
+            "HKW 2 GT E",
+            "Block 4 GT A",
+            "GT B",
+            "GT C",
+            "HKW 1",
+            "HKW 2 DT"
+        ],
+        "HKW 2 GT E": "SEE975556152230",
+        "Block 4 GT A": "SEE971282697380",
+        "GT B": "SEE963975943188",
+        "GT C": "SEE904161631090",
+        "HKW 1": "SEE944503176377",
+        "HKW 2 DT": "SEE965782597448"
+    },
+    "Heizkraftwerk_Heilbronn": {
+        "list": [
+            "HLB 5",
+            "HLB 6",
+            "HLB 7",
+            "FHT 1"
+        ],
+        "HLB 5": "SEE968847258773",
+        "HLB 6": "SEE935086224739",
+        "HLB 7": "SEE948609940009",
+        "FHT 1": "SEE900364034072"
+    },
+    "Kraftwerk_Lausward": {
+        "list": [
+            "GTE1",
+            "GTE2",
+            "GuD F",
+            "AGuD",
+            "Gasblock"
+        ],
+        "GTE1": "SEE989503748513",
+        "GTE2": "SEE972458947407",
+        "GuD F": "SEE975361659900",
+        "AGuD": "SEE957083466325",
+        "Gasblock": "BNA0221c"
+    },
+    "GuD_M_nchen_S_d_1": {
+        "list": [
+            "DT1",
+            "GT3",
+            "GT2"
+        ],
+        "DT1": "SEE907223904750",
+        "GT3": "SEE985585573104",
+        "GT2": "SEE901789931854"
+    },
+    "GuD_M_nchen_S_d_2": {
+        "list": [
+            "GT61",
+            "DT60",
+            "GT62"
+        ],
+        "GT61": "SEE980327120226",
+        "DT60": "SEE996720450723",
+        "GT62": "SEE976219797843"
+    },
+    "Heizkraftwerk_Merkenich": {
+        "list": [
+            "Block 4 Merkenich RheinEnergie",
+            "Block 6 Merkenich RheinEnergie",
+            "GuD Merkenich RheinEnergie"
+        ],
+        "Block 4 Merkenich RheinEnergie": "SEE961660070034",
+        "Block 6 Merkenich RheinEnergie": "SEE915426748132",
+        "GuD Merkenich RheinEnergie": "SEE978207781308"
+    },
+    "Heizkraftwerk_K_ln_Niehl": {
+        "list": [
+            "GuD 3",
+            "DT 2",
+            "GT 2"
+        ],
+        "GuD 3": "SEE931050475398",
+        "DT 2": "SEE916609233650",
+        "GT 2": "SEE984335626152"
+    },
+    "Kraftwerk_R_merbr_cke": {
+        "list": [
+            "Gasmororenkraftwerk",
+            "DT2",
+            "DT3",
+            "GuD Anlage"
+        ],
+        "Gasmororenkraftwerk": "SEE927282130440",
+        "DT2": "SEE979779484642",
+        "DT3": "SEE950895373805",
+        "GuD Anlage": "SEE975188536989"
+    },
+    "Heizkraftwerk_West": {
+        "list": [
+            "Block 4",
+            "Block 2",
+            "Block 3",
+            "Turbine 5",
+            "Block 1"
+        ],
+        "Block 4": "",
+        "Block 2": "",
+        "Block 3": "",
+        "Turbine 5": "SEE957769851605",
+        "Block 1": ""
+    },
+    "Huckingen": {
+        "list": [
+            "Huckingen B",
+            "Huckingen A"
+        ],
+        "B": "SEE992213654456",
+        "A": "SEE939242219362"
+    },
+    "Huntorf": {
+        "list": [
+            "Huntorf GT"
+        ],
+        "GT": "SEE974201537415"
+    },
+    "PCK_Schwedt": {
+        "list": [
+            "4MKA",
+            "6MKA",
+            "5MKA",
+            "1MKA",
+            "2MKA"
+        ],
+        "4MKA": "SEE943750140889",
+        "6MKA": "SEE960529046555",
+        "5MKA": "SEE906257837416",
+        "1MKA": "SEE954086855965",
+        "2MKA": "SEE995943794058"
+    },
+    "Kraftwerk_Rostock": {
+        "list": [
+            "A"
+        ],
+        "A": "SEE943427876363"
+    },
+    "Klingenberg": {
+        "list": [
+            "DT3",
+            "DT2",
+            "DT1"
+        ],
+        "DT3": "SEE965333653821",
+        "DT2": "SEE988684097793",
+        "DT1": "SEE997719859992"
+    },
+    "Kraftwerk_Knapsack_Gas_II": {
+        "list": [
+            "Kraftwerk II"
+        ],
+        "Kraftwerk Knapsack II": "SEE903983424590"
+    },
+    "Kraftwerk_Knapsack_Gas_I": {
+        "list": [
+            "GT12",
+            "GT11",
+            "DT10"
+        ],
+        "GT12": "SEE905192478234",
+        "GT11": "SEE930982693153",
+        "DT10": "SEE959576281422"
+    },
+    "GuD_Ludwigshafen_Mitte": {
+        "list": [
+            "GT12",
+            "GT11",
+            "DT10"
+        ],
+        "GT12": "SEE914414538991",
+        "GT11": "SEE920494524915",
+        "DT10": "SEE976850689781"
+    },
+    "Kraftwerk_BASF_Ludwigshafen_S_d": {
+        "list": [
+            "GT2",
+            "GT1",
+            "DT"
+        ],
+        "GT2": "SEE923421872301",
+        "GT1": "SEE944122961347",
+        "DT": "SEE943309807898"
+    },
+    "Kraftwerk_Hastedt": {
+        "list": [
+            "Block 14",
+            "Block 15"
+        ],
+        "Block 14": "BNA0140",
+        "Block 15": "SEE968950464368",
+        "BHKW Hastedt": ""
+    },
+    "GuD_Herne": {
+        "list": [
+            "GuD Herne"
+        ],
+        "GuD Herne": "SEE945908806647"
+    },
+    "Kraftwerk_J_nschwalde": {
+        "list": [
+            "Block E",
+            "Block D",
+            "Block C",
+            "Block F",
+            "Block B",
+            "Block A"
+        ],
+        "Block E": "SEE985047526785",
+        "Block D": "SEE923943268279",
+        "Block C": "SEE989591633753",
+        "Block F": "SEE964729462818",
+        "Block B": "SEE938669585906",
+        "Block A": "SEE991817093418"
+    },
+    "Kraftwerk_L_nen": {
+        "list": [
+            "Trianel Kohlekraftwerk Lünen"
+        ],
+        "Trianel Kohlekraftwerk Lünen": "SEE961029163353"
+    },
+    "GuD_Mittelsb_ren": {
+        "list": [
+            "GuD Mibü"
+        ],
+        "GuD Mibü": "SEE989202977269"
+    },
+    "Kraftwerk_Walheim": {
+        "list": [
+            "Block 2",
+            "Block 1",
+            "GTD"
+        ],
+        "Block 2": "SEE964114029633",
+        "Block 1": "SEE937157344278",
+        "GTD": "SEE911613995433"
+    },
+    "Kraftwerk_Walsum": {
+        "list": [
+            "Walsum 10",
+            "Walsum 9",
+            "Walsum 7"
+        ],
+        "Walsum 10": "SEE918143230942",
+        "Walsum 9": "BNA0216a",
+        "Walsum 7": "BNA0215"
+    },
+    "Lichterfelde": {
+        "list": [
+            "Block 2",
+            "Block 3",
+            "Block 1",
+            "DT",
+            "GT"
+        ],
+        "Block 2": "BNA0076",
+        "Block 3": "BNA0080",
+        "Block 1": "BNA0075",
+        "DT": "SEE923401813959",
+        "GT": "SEE929077603696"
+    },
+    "Heizkraftwerk_M_nchen_Nord_2": {
+        "list": [
+            "T20",
+            "T30",
+            "T10"
+        ],
+        "T20": "SEE952372080091",
+        "T30": "SEE998278854237",
+        "T10": "SEE942366584926"
+    },
+    "Kraftwerk_Neurath": {
+        "list": [
+            "Neurath G",
+            "Neurath C",
+            "Neurath F",
+            "Neurath A",
+            "Neurath B",
+            "Neurath D",
+            "Neurath E"
+        ],
+        "Neurath G": "SEE993592183001",
+        "Neurath C": "SEE978971638464",
+        "Neurath F": "SEE925599434282",
+        "Neurath A": "BNA0696",
+        "Neurath B": "BNA0697",
+        "Neurath D": "SEE931736847297",
+        "Neurath E": "SEE976414005279"
+    },
+    "Kraftwerk_Niederau_em": {
+        "list": [
+            "Niederaußem G",
+            "Niederaußem H",
+            "Niederaußem D",
+            "Niederaußem E",
+            "Niederaußem C",
+            "Niederaußem B",
+            "Niederaußem F",
+            "Niederaußem K",
+            "Niederaußem A"
+        ],
+        "Niederaußem G": "SEE921905907730",
+        "Niederaußem H": "SEE957229968300",
+        "Niederaußem D": "BNA0705",
+        "Niederaußem E": "SEE901786750397",
+        "Niederaußem C": "BNA0712",
+        "Niederaußem B": "BNA0710",
+        "Niederaußem F": "SEE930228090937",
+        "Niederaußem K": "SEE983252937631",
+        "Niederaußem A": "BNA0711"
+    },
+    "Heizkraftwerk_Stuttgart-M_nster": {
+        "list": [
+            "GT 17",
+            "GT 18",
+            "GT 16",
+            "DT 15",
+            "DT 12",
+            "DT 19"
+        ],
+        "GT 17": "SEE951401550147",
+        "GT 18": "SEE985887784048",
+        "GT 16": "SEE992973663477",
+        "DT 15": "SEE905714722562",
+        "DT 12": "SEE998383491525",
+        "DT 19": "SEE962877818310"
+    },
+    "Heizkraftwerk_Reuter": {
+        "list": [
+            "Reuter M",
+            "Reuter C"
+        ],
+        "Reuter M": "SEE988848971327",
+        "Reuter C": "BNA0082"
+    },
+    "Heizkraftwerk_Reuter_West": {
+        "list": [
+            "DT D",
+            "DT E"
+        ],
+        "DT D": "SEE989328541450",
+        "DT E": "SEE974883809046"
+    },
+    "Dampfkraftwerk_Rheinhafen": {
+        "list": [
+            "Block 8",
+            "Block 7",
+            "Block 8 Wasserturbine",
+            "Block 4S GT",
+            "Block 4S DT"
+        ],
+        "Block 8": "SEE980331579218",
+        "Block 7": "BNA051a",
+        "Block 8 Wasserturbine": "",
+        "Block 4S GT": "SEE934927915690",
+        "Block 4S DT": "SEE968136280119"
+    },
+    "Kraftwerk_Schkopau": {
+        "list": [
+            "Schkopau B",
+            "Schkopau A+B Bahngenerator",
+            "Schkopau A"
+        ],
+        "Schkopau B": "SEE947677200282",
+        "Schkopau A+B Bahngenerator": "SEE919134316447",
+        "Schkopau A": "SEE960652233358"
+    },
+    "Kraftwerk_Scholven": {
+        "list": [
+            "B",
+            "C",
+            "F",
+            "E",
+            "D"
+        ],
+        "B": "SEE952352206145",
+        "C": "SEE933236950972",
+        "F": "BNA0335",
+        "E": "BNA0334",
+        "D": "BNA0333"
+    },
+    "Schwarze_Pumpe": {
+        "list": [
+            "Block A",
+            "Block B"
+        ],
+        "Block A": "SEE938337436349",
+        "Block B": "SEE952672318108"
+    },
+    "Tiefstack": {
+        "list": [
+            "GT 41",
+            "Block 20"
+        ],
+        "GT 41": "SEE913896693631",
+        "Block 20": "SEE987197130805"
+    },
+    "Weisweiler": {
+        "list": [
+            "Weisweiler D",
+            "Weisweiler C",
+            "Weisweiler H VGT",
+            "Weisweiler G VGT",
+            "Weisweiler F",
+            "Weisweiler H",
+            "Weisweiler G",
+            "Weisweiler E"
+        ],
+        "Weisweiler D": "BNA1022",
+        "Weisweiler C": "BNA1021",
+        "Weisweiler H VGT": "SEE999117793854",
+        "Weisweiler G VGT": "SEE909886576275",
+        "Weisweiler F": "SEE933685962403",
+        "Weisweiler H": "SEE955314088254",
+        "Weisweiler G": "SEE987007884447",
+        "Weisweiler E": "BNA1025"
+    },
+    "Zolling": {
+        "list": [
+            "GT1 & GT2",
+            "Biomasse-HKW",
+            "Kraftwerk Zolling"
+        ],
+        "GT1 & GT2": "SEE949509046600",
+        "Biomasse-HKW": "SEE918648599230",
+        "Kraftwerk Zolling": "SEE958847865460"
+    },
+    "Heizkraftwerk_West": {
+        "list": [
+            "West 2",
+            "West 1"
+        ],
+        "West 1": "BNA0989",
+        "West 2": "BNA0990"
+    },
+    "K_stenkraftwerk_K.I.E.L.": {
+        "list": [
+            "BHKW Modul 1-20"
+        ],
+        "BHKW Modul 1-20": "SEE940475173918"
+    }
+}

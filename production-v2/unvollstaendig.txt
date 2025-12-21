@@ -1,0 +1,422 @@
+zu überprüfen:
+Mainova "HKW West"
+Knapsack aufspalten
+
+
+
+unvollständig:
+
+Kraftwerk Burghausen
+Kraftwerk Hamborn
+Heizkraftwerk West
+Heizkraftwerk Reuter
+Kraftwerk Scholven
+Küstenkraftwerk Kiel
+Heizkraftwerk Wedel
+
+
+
+
+"Kraftwerk_Hamborn": {
+        "list": [
+            "Block 3",
+            "Block 4",
+            "Block 5"
+        ],
+        "Block 3": "SEE912994271871",
+        "Block 4": "SEE916877868585",
+        "Block 5": "SEE915966254872"
+    },
+
+"Duisburg_Ruhrort": {
+        "list": [
+            "Block 3",
+            "Block 2",
+            "Block 4"
+        ],
+        "Block 3": "SEE949799257847",
+        "Block 2": "SEE912020488365",
+        "Block 4": "SEE936262825863"
+    },
+
+    "E-Werk_Wilhelmshaven": {
+        "list": [
+            "1.0",
+            "GT"
+        ],
+        "1.0": "BNA1061",
+        "GT": "SEE934897209904"
+    },
+    "Farge": {
+        "list": [
+            "Farge"
+        ],
+        "Farge": "SEE904968236689"
+    },
+
+    "Gas-und-Dampfturbinen_Kraftwerk_Mitte": {
+        "list": [
+            "Gas-und-Dampfturbinen Mitte"
+        ],
+        "Gas-und-Dampfturbinen Mitte": ""
+    },
+
+    "Gemeinschaftskernkraftwerk_Neckarwestheim_II": {
+        "list": [
+            "GKN II"
+        ],
+        "GKN II": "SEE985577062814"
+    },
+    "Gemeinschaftskraftwerk_Kiel": {
+        "list": [
+            ""
+        ],
+        "": "BNA0526"
+    },
+    "Goldisthal": {
+        "list": [
+            "PSS A",
+            "PSS C",
+            "PSS D",
+            "PSS B"
+        ],
+        "PSS A": "SEE945148512650",
+        "PSS C": "SEE943653719359",
+        "PSS D": "SEE901345486644",
+        "PSS B": "SEE974189836364"
+    },
+
+    "Grohnde": {
+        "list": [
+            "KraftwerkG"
+        ],
+        "KraftwerkG": "BNA0251"
+    },
+    "Heizkraftwerk_Dresden-Nossener_Br_cke": {
+        "list": [
+            "Heizkraftwerk Dresden-Nossener Br\u00fccke"
+        ],
+        "Heizkraftwerk Dresden-Nossener Br\u00fccke": "SEE967194778880"
+    },
+    "Heizkraftwerk_Dresden-Nossener_Br\u00fccke": {
+        "list": [
+            "Heizkraftwerk Dresden-Nossener Br\u00fccke"
+        ],
+        "Heizkraftwerk Dresden-Nossener Br\u00fccke": "SEE967194778880"
+    },
+    "Heizkraftwerk_Hagen-Kabel": {
+        "list": [
+            "H4/5"
+        ],
+        "H4/5": "SEE987407788451"
+    },
+    "Heizkraftwerk_Leipzig-Nord": {
+        "list": [
+            ""
+        ],
+        "": "SEE923244371197"
+    },
+    "Heizkraftwerk_West_Wolfsburg": {
+        "list": [
+            "1",
+            "2"
+        ],
+        "1": "SEE959000487536",
+        "2": "SEE917432813484"
+    },
+    "Heizkraftwerk_West__Frankfurt_": {
+        "list": [
+            "M4",
+            "Block 4",
+            "Block 3",
+            "Block 2"
+        ],
+        "M4": "BNA0289a",
+        "Block 4": "SEE994429144455",
+        "Block 3": "SEE915289541482",
+        "Block 2": "SEE917943562765"
+    },
+    "Heyden": {
+        "list": [
+            "4"
+        ],
+        "4": "SEE937052769589"
+    },
+    "Ibbenb_ren": {
+        "list": [
+            "B"
+        ],
+        "B": "BNA0493"
+    },
+    "Isar_2": {
+        "list": [
+            "2"
+        ],
+        "2": "SEE943690268513"
+    },
+    "KWH_Hannover": {
+        "list": [
+            "B"
+        ],
+        "B": "BNA0419"
+    },
+    "KWM_Mehrum": {
+        "list": [
+            "3"
+        ],
+        "3": "SEE904194792843"
+    },
+    "Kernkraft_Gundremmingen_": {
+        "list": [
+            "C",
+            "B"
+        ],
+        "C": "BNA0382",
+        "B": "BNA0381"
+    },
+    "Kernkraftwerk_Emsland": {
+        "list": [
+            "A"
+        ],
+        "A": "SEE944567587799"
+    },
+    "Kernkraftwerk_Philippsburg_2": {
+        "list": [
+            "2"
+        ],
+        "2": "BNA0802"
+    },
+    "Koepchenwerk": {
+        "list": [
+            "Koepchenwerk"
+        ],
+        "Koepchenwerk": "SEE925333539921"
+    },
+
+    "Kraftwerk_Be06bach": {
+        "list": [
+            "BEX"
+        ],
+        "BEX": "SEE954971534470"
+    },
+    "Kraftwerk_Bexbach": {
+        "list": [
+            "Bexbach"
+        ],
+        "Bexbach": "SEE954971534470"
+    },
+    "Kraftwerk_Bremer_Hafen": {
+        "list": [
+            "MKK",
+            "Block 5",
+            "Block 6"
+        ],
+        "MKK": "SEE958310939391",
+        "Block 5": "BNA0145",
+        "Block 6": "BNA0146"
+    },
+    "Kraftwerk_Ingolstadt": {
+        "list": [
+            "3",
+            "4"
+        ],
+        "3": "SEE950675787617",
+        "4": "SEE983645175053"
+    },
+
+    "Kraftwerk_Mainz": {
+        "list": [
+            "Kraftwerk3",
+            "Kraftwerk2"
+        ],
+        "Kraftwerk3": "SEE932621971301",
+        "Kraftwerk2": "SEE925631744058"
+    },
+    "Kraftwerk_Rheinfelden": {
+        "list": [
+            "Kraftwerk Rheinfelden"
+        ],
+        "Kraftwerk Rheinfelden": "SEE913556136355"
+    },
+    "Kraftwerk_Werdohl-Elverlingsen": {
+        "list": [
+            "E 1/2",
+            "E3",
+            "E4"
+        ],
+        "E 1/2": "SEE911202451180",
+        "E3": "BNA1035",
+        "E4": "BNA1037"
+    },
+    "Kraftwerk_Wilhelmshaven": {
+        "list": [
+            "Onyx"
+        ],
+        "Onyx": "SEE970425279599"
+    },
+
+    "Markersbach": {
+        "list": [
+            "PSS B",
+            "PSS C",
+            "PSS D",
+            "PSS F",
+            "PSS E",
+            "PSS A"
+        ],
+        "PSS B": "SEE952165584195",
+        "PSS C": "SEE940802366570",
+        "PSS D": "SEE904052511746",
+        "PSS F": "SEE983006552202",
+        "PSS E": "SEE911219414864",
+        "PSS A": "SEE939026884250"
+    },
+    "Moorburg": {
+        "list": [
+            "B",
+            "A"
+        ],
+        "B": "BNA1558",
+        "A": "BNA1673"
+    },
+    "Rheinkraftwerk_Iffezheim": {
+        "list": [
+            "Iffezheim M1-M5"
+        ],
+        "Iffezheim M1-M5": "SEE977812651266"
+    },
+    "S_ckingen": {
+        "list": [
+            "S\u00e4ckingen"
+        ],
+        "S\u00e4ckingen": "SEE922473273890"
+    },
+    "Staudinger": {
+        "list": [
+            "5",
+            "4",
+            "3.0",
+            "1.0"
+        ],
+        "5": "SEE929161243203",
+        "4": "SEE988182827533",
+        "3.0": "BNA0376",
+        "1.0": "BNA0375"
+    },
+    "V_lklingen": {
+        "list": [
+            "MKV",
+            "HKV"
+        ],
+        "MKV": "SEE919393178787",
+        "HKV": "SEE987838157994"
+    },
+    "Waldeck_2": {
+        "list": [
+            "M6",
+            "M5"
+        ],
+        "M6": "SEE933021962319",
+        "M5": "SEE943568591200"
+    },
+    "Wehr": {
+        "list": [
+            "Wehr"
+        ],
+        "Wehr": "SEE945727561772"
+    },
+    "Weiher": {
+        "list": [
+            "3"
+        ],
+        "3": "SEE906326984744"
+    },
+    "Westfalen": {
+        "list": [
+            "D",
+            "B",
+            "A",
+            "C",
+            "E"
+        ],
+        "D": "BNA0413b",
+        "B": "BNA0415",
+        "A": "BNA0414",
+        "C": "BNA0413a",
+        "E": "BNA0413c"
+    },
+    "Witznau": {
+        "list": [
+            "Witznau"
+        ],
+        "Witznau": "SEE919035876514"
+    },
+
+    "Frimmersdorf": {
+        "list": [
+            "N",
+            "E",
+            "G",
+            "I",
+            "K",
+            "O",
+            "M",
+            "D",
+            "L",
+            "F",
+            "C",
+            "Q",
+            "P"
+        ],
+        "N": "BNA0309",
+        "E": "BNA0305",
+        "G": "BNA0304",
+        "I": "BNA0307",
+        "K": "BNA0308",
+        "O": "BNA0312",
+        "M": "BNA0310",
+        "D": "BNA0303",
+        "L": "BNA0311",
+        "F": "BNA0306",
+        "C": "BNA0302",
+        "Q": "BNA0314",
+        "P": "BNA0313"
+    },
+    "Kraftwerk_Voerde": {
+        "list": [
+            "Block A",
+            "Block B"
+        ],
+        "Block A": "BNA0991",
+        "Block B": "BNA0992"
+    },
+
+    "Wehr_A": {
+        "list": [
+            "Wehr A"
+        ],
+        "Wehr A": "SEE945727561772"
+    },
+    "Wehr_B": {
+        "list": [
+            "Wehr B"
+        ],
+        "Wehr B": "SEE945727561772"
+    }
+
+    "Heizkraftwerk_Wedel": {
+        "list": [
+            "HKW Wedel Block 1",
+            "HKW Wedel Block 2"
+        ],
+        "B": "BNA1016",
+        "1": "SEE960100973492",
+        "2": "SEE934530018092"
+    }
+
+
+
+
+
+
+
