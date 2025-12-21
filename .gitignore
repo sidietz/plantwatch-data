@@ -1,4 +1,5 @@
 *.csv
+*.xlsx
 *.zip
 *.bak
 **/.ipynb_checkpoints
